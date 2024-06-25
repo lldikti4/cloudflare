@@ -6,3 +6,8 @@ Pekerja menggunakan Isolate , bukan container atau mesin virtual, sehingga mesin
 
 Cloudflare Workers terbukti bermanfaat di banyak sektor untuk aplikasi di lingkungan tanpa server. Keterjangkauan, keamanan, dan penskalaan otomatis adalah keunggulan utama jika dibandingkan dengan platform tanpa server lainnya. Tanpa aset statis yang dibuat sebelumnya, jaringan edge Worker yang kuat dapat menghasilkan aset statis dengan lancar.
 
+
+# website
+
+https://cluster-spmi-lldikti4.laresarianti23.workers.dev/
+
