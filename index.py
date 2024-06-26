@@ -1,7 +1,5 @@
-from js import Response
+from urllib import response
 
 
-def on_fetch(request):
-    print("Hi there!")
-    return Response.new("Hello World!")
-
+def fetch(request, env):
+    return response(body="Hello, world from Python in Workers!", status=200)
