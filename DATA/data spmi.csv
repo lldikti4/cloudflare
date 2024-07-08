@@ -1,0 +1,497 @@
+KODEPT,PT,tutup,KEBIJAKAN_UNGGAH,KEBIJAKAN_VERIFIED,KEBIJAKAN_VALID,STANDAR_INSTITUSI_UNGGAH,STANDAR_INSTITUSI_VERIFIED,STANDAR_INSTITUSI_VALID,JML_STDLAIN_VALID,AMI_UNGGAH,AMI_VERIFIED,AMI_VALID,EVALUASI_LAIN_UNGGAH,EVALUASI_LAIN_VERIFIED,EVALUASI_LAIN_VALID,JML_EVAL_LAIN_VALID,PENGENDALIAN_UNGGAH,PENGENDALIAN_VERIFIED,PENGENDALIAN_VALID,PENINGKATAN_UNGGAH,PENINGKATAN_VERIFIED,PENINGKATAN_VALID,BOBOT VALID,KETERANGAN VALID,BOBOT VERIFIKASI,KETERANGAN,BOBOT UNGGAH ,KETERANGAN,KLASTER
+44002,Akademi Akuntansi Bandung,,6,5,1,10,10,8,0,3,1,1,4,0,0,0,10,0,0,6,0,0,29%,Belum Tervalidasi,46%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+44132,Akademi Analis Kesehatan An Nasher Cirebon,,6,6,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,40%,Belum Terverifikasi,40%,Tidak Lengkap,Kuning
+44133,Akademi Bahasa Asing Internasional Bandung,,6,0,0,10,0,0,2,3,0,0,0,0,0,0,3,0,0,3,0,0,0%,Tidak Ada,0%,Tidak Ada,71%,Tidak Lengkap,Merah
+44186,Akademi Farmasi Al-Ishlah Cilegon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Hijau
+44239,Akademi Farmasi Bumi Siliwangi,,6,6,6,9,9,9,1,3,3,3,2,2,2,0,2,2,2,6,1,1,60%,Belum Tervalidasi,60%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+44246,Akademi Farmasi Persada Sukabumi,,6,4,4,0,0,0,0,3,0,0,4,4,0,0,0,0,0,6,0,0,11%,Belum Tervalidasi,11%,Belum Terverifikasi,43%,Tidak Lengkap,Merah
+44238,Akademi Farmasi YPF,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+44075,Akademi Industri Tekstil Bandung,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Hijau
+4001,Akademi Kebidahan Bhakti Asih Ciledug,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44137,Akademi Kebidanan Aisyiyah Serang,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44208,Akademi Kebidanan Al-Ikhlas Cisarua,,6,6,0,10,10,0,2,3,0,0,4,0,0,0,10,10,0,6,6,0,0%,Tidak Ada,91%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+44130,Akademi Kebidanan Al-Ishlah Cilegon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44241,Akademi Kebidanan Annisa Jaya,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44188,Akademi Kebidanan Ar-Rahmah Bandung,,6,6,0,8,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,40%,Belum Terverifikasi,40%,Tidak Lengkap,Hijau
+44129,Akademi Kebidanan Assyifa Tangerang,,6,6,1,0,0,0,0,3,3,0,4,4,0,0,0,0,0,0,0,0,3%,Belum Tervalidasi,26%,Belum Terverifikasi,26%,Tidak Lengkap,Merah
+44211,Akademi Kebidanan Bakti Indonesia Bogor,,6,5,5,10,2,0,0,3,0,0,0,0,0,0,10,0,0,0,0,0,14%,Belum Tervalidasi,20%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+44228,Akademi Kebidanan Bandung,,6,6,6,10,10,10,5,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+44250,Akademi Kebidanan Bhakti Asih Ciledug,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44229,Akademi Kebidanan Bhakti Asih Cileduk,,6,1,0,8,8,0,0,0,0,0,0,0,0,1,7,7,0,1,1,0,0%,Tidak Ada,49%,Belum Terverifikasi,63%,Tidak Lengkap,Kuning
+44198,Akademi Kebidanan Bhakti Mitra Husada,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44219,Akademi Kebidanan Bina Husada Serang,,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,31%,Tidak Lengkap,Merah
+44127,Akademi Kebidanan Bina Husada Tangerang,,6,0,0,10,3,0,3,3,0,0,0,0,0,0,9,9,0,6,6,0,0%,Tidak Ada,51%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+44204,Akademi Kebidanan Bunda Auni Bogor,,6,0,0,9,0,0,3,3,0,0,0,0,0,0,6,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,69%,Tidak Lengkap,Merah
+44231,Akademi Kebidanan Cipta Daya Husada,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44197,Akademi Kebidanan Citama Raya Depok,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44244,Akademi Kebidanan Farmako Husada Al-Muchtari Bogor,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+44182,Akademi Kebidanan Gema Nusantara Bekasi,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44225,Akademi Kebidanan Graha Husada Cirebon,,6,5,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,2,2,0,3%,Belum Tervalidasi,29%,Belum Terverifikasi,31%,Tidak Lengkap,Merah
+44174,Akademi Kebidanan Isma Husada Cirebon,,6,6,2,10,10,9,8,2,2,2,0,0,0,0,4,4,0,6,6,1,40%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+44134,Akademi Kebidanan Karya Bunda Husada,1,0,0,1,0,0,0,16,0,0,3,0,0,3,2,0,0,10,0,0,0,40%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Kuning
+44192,Akademi Kebidanan La Tansa Mashiro,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44224,Akademi Kebidanan Medica Obgin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44196,Akademi Kebidanan Prima Husada,,6,6,6,10,10,10,1,3,1,1,1,0,0,1,3,3,3,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+44206,Akademi Kebidanan Prima Indonesia,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44223,Akademi Kebidanan Sayid Sabiq Indramayu,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44215,Akademi Kebidanan Sentra Bina Yudistira Tangerang,,6,1,1,10,6,6,7,3,2,2,4,4,0,0,3,0,0,6,0,0,26%,Belum Tervalidasi,26%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+44199,Akademi Kebidanan Suka Wangi Bekasi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44170,Akademi Kebidanan Tri Dharma Husada Bandung,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44248,Akademi Kebidanan Ummul Quro Al-Islami Bogor,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44226,Akademi Kebidanan Wijaya Husada,,6,0,0,10,0,0,3,3,0,0,3,0,0,0,2,2,0,6,0,0,0%,Tidak Ada,6%,Belum Terverifikasi,77%,Tidak Lengkap,Kuning
+44116,Akademi Kebidanan Yayasan Husada Madani,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44207,Akademi Keperawatan Al-Ikhlas Cisarua,,6,0,0,10,10,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,29%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+44160,Akademi Keperawatan Buntet Pesantren,,6,6,6,10,10,10,0,3,3,3,4,3,3,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+44185,Akademi Keperawatan Dharma Husada Cirebon,,6,6,1,8,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26%,Belum Tervalidasi,40%,Belum Terverifikasi,40%,Tidak Lengkap,Merah
+44143,Akademi Keperawatan Kebonjati,,6,5,0,10,2,0,1,3,0,0,0,0,0,0,4,3,0,6,0,0,0%,Tidak Ada,29%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+44230,Akademi Keperawatan RS Efarina,,6,6,6,10,10,6,1,3,3,2,0,0,0,0,3,3,3,6,6,4,60%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+44172,Akademi Keperawatan Yatna Yuana Lebak,,6,4,3,3,3,3,1,2,2,2,0,0,0,0,0,0,0,0,0,0,23%,Belum Tervalidasi,26%,Belum Terverifikasi,31%,Tidak Lengkap,Merah
+44152,Akademi Keperawatan YPIB Majalengka,,6,0,0,8,0,0,2,3,0,0,4,4,4,0,1,1,1,6,3,3,11%,Belum Tervalidasi,11%,Belum Terverifikasi,69%,Tidak Lengkap,Merah
+46004,Akademi Komunitas Insan Tazakka,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+46001,Akademi Komunitas Multistrada,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+46003,Akademi Komunitas Presiden,,6,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,20%,Tidak Lengkap,Merah
+46005,Akademi Komunitas Qurrota Ayun,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+46002,Akademi Komunitas Toyota Indonesia,,6,6,6,6,6,6,1,3,3,3,4,4,0,0,4,4,0,6,6,6,60%,Belum Tervalidasi,71%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+44242,Akademi Manajemen Gunung Leuser,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44064,Akademi Manajemen Informatika Dan Komputer Garut,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44060,Akademi Manajemen Informatika Dan Komputer Serang,,6,1,1,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11%,Belum Tervalidasi,11%,Belum Terverifikasi,26%,Tidak Lengkap,Kuning
+44110,Akademi Manajemen Informatika dan Komputer Wahana Mandiri,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+44089,Akademi Manajemen Informatika Dan Komputer YPAT,,6,6,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,6,6,5,31%,Belum Tervalidasi,43%,Belum Terverifikasi,43%,Tidak Lengkap,Kuning
+44052,Akademi Maritim Cirebon,,6,6,6,10,10,10,2,2,2,2,4,3,3,1,4,4,4,6,5,5,77%,Belum Tervalidasi,77%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+44035,Akademi Maritim Suaka Bahari,,6,6,1,10,10,0,0,3,3,1,0,0,0,0,1,1,0,6,6,1,9%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+44236,Akademi Pariwisata (AKPAR) Bina Sarana Informatika Bandung,,6,6,6,9,3,3,6,3,1,1,1,1,0,0,8,8,8,6,0,0,51%,Belum Tervalidasi,51%,Belum Terverifikasi,91%,Tidak Lengkap,Hijau
+44050,Akademi Pariwisata Bandung,,6,6,5,6,6,4,0,3,3,0,0,0,0,0,0,0,0,0,0,0,26%,Belum Tervalidasi,43%,Belum Terverifikasi,43%,Tidak Lengkap,Kuning
+44107,Akademi Pariwisata Citra Buana Indonesia,,6,2,0,4,0,0,0,2,0,0,1,1,0,0,3,0,0,0,0,0,0%,Tidak Ada,6%,Belum Terverifikasi,43%,Tidak Lengkap,Merah
+44093,Akademi Pariwisata Nasional Indonesia Bandung,,6,6,6,10,10,10,6,3,3,3,3,3,3,0,6,6,6,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Hijau
+44111,Akademi Pariwisata NHI Bandung,,6,5,5,6,6,5,4,3,3,3,2,1,0,9,5,5,5,6,6,6,69%,Belum Tervalidasi,71%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+44203,Akademi Pariwisata Nusantara Tangerang,,6,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17%,Belum Tervalidasi,17%,Belum Terverifikasi,26%,Tidak Lengkap,Merah
+44065,Akademi Pariwisata Siliwangi,,6,6,1,10,10,0,0,3,3,0,4,4,0,0,10,10,0,6,6,0,3%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+44243,Akademi Pariwisata Tunas Nusantara Mandiri,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44056,Akademi Pariwisata Yasmi,,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0%,Tidak Ada,34%,Belum Terverifikasi,34%,Tidak Lengkap,Merah
+44051,Akademi Perdagangan Bandung,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44245,Akademi Perhotelan Tunas Indonesia,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44176,Akademi Perpajakan Maria Mediatrix,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Hijau
+44235,Akademi Perpajakan Padang (AKAP) Bekasi,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44187,Akademi Radiognostik Dan Radioterapi Yapenpernus,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44071,Akademi Sekretari Dan Manajemen Ariyanti,,6,6,6,9,9,9,7,3,3,0,4,4,3,0,5,5,5,6,6,4,69%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+44098,Akademi Sekretari Dan Manajemen Insulindo,,6,1,1,9,3,3,0,1,1,0,2,2,2,0,3,1,1,6,0,0,14%,Belum Tervalidasi,17%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+44070,Akademi Sekretari Dan Manajemen Lepisi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+44062,Akademi Sekretari Dan Manajemen Tunas Harapan,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Hijau
+44022,Akademi Sekretari Manajemen Taruna Bakti,,6,3,3,9,0,0,5,3,2,2,4,0,0,0,3,3,3,6,0,0,23%,Belum Tervalidasi,23%,Belum Terverifikasi,77%,Tidak Lengkap,Hijau
+44069,Akademi Sekretari Triguna,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44049,Akademi Sekretaris Dan Manajemen Kencana Bandung,,6,6,6,10,10,10,2,3,3,3,0,0,0,0,10,10,6,6,0,0,71%,Belum Tervalidasi,83%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+44072,Akademi Tata Boga Bandung,,6,6,6,10,10,10,1,3,3,3,4,4,0,1,6,6,6,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Merah
+44092,Akademi Teknologi Aeronautika Siliwangi,,6,4,2,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,Belum Tervalidasi,11%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+44074,Akademi Teknologi Bandung,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44078,Akademi Teknologi Bogor,,6,1,1,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,6%,Belum Tervalidasi,6%,Belum Terverifikasi,26%,Tidak Lengkap,Merah
+44249,Akademi Teknologi Radiologi,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Hijau
+44105,Akademi Telekomunikasi Bogor,,6,6,1,0,0,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0,9%,Belum Tervalidasi,23%,Belum Terverifikasi,26%,Tidak Lengkap,Kuning
+44126,Akademi Telekomunikasi Nusantara,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+44045,AMIK Bumi Nusantara,,6,5,0,10,10,0,0,3,3,0,4,0,0,1,10,10,0,6,6,0,0%,Tidak Ada,97%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+44108,AMIK Citra Buana Indonesia,,6,6,6,8,8,8,1,3,3,3,4,1,1,1,3,3,3,5,5,5,71%,Belum Tervalidasi,71%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+44233,AMIK Mapan Tangerang,,6,6,6,5,5,5,3,0,0,0,0,0,0,7,0,0,0,0,0,0,31%,Belum Tervalidasi,31%,Belum Terverifikasi,31%,Tidak Lengkap,Merah
+44123,AMIK Pakarti Luhur,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+44102,AMIK Purnama Niaga,,6,4,4,10,10,10,0,3,0,0,3,0,0,0,3,0,0,6,0,0,40%,Belum Tervalidasi,40%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+44068,AMIK Sultan Agung,,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,17%,Belum Terverifikasi,17%,Tidak Lengkap,Merah
+44009,AMIK Wira Nusantara,,6,6,6,8,8,8,1,3,3,3,0,0,0,0,1,1,1,6,6,6,69%,Belum Tervalidasi,69%,Belum Terverifikasi,69%,Tidak Lengkap,Hijau
+41131,Deakin University,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+42016,Institut Bisnis Dan Informatika Kesatuan,,6,6,6,4,4,4,0,3,0,0,4,4,3,0,1,1,1,6,6,6,49%,Belum Tervalidasi,49%,Belum Terverifikasi,57%,Tidak Lengkap,Hijau
+42010,Institut Bisnis Muhammadiyah Bekasi,,6,6,0,10,10,9,8,3,3,2,3,3,2,0,10,10,10,6,6,0,60%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+42030,Institut Budi Utomo Nasional,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+42022,Institut Digital Ekonomi LPKIA,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,4,4,4,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+42012,Institut Keguruan dan Ilmu Pendidikan Siliwangi,,6,6,6,10,10,10,12,3,2,2,4,2,2,57,3,3,0,6,6,6,69%,Belum Tervalidasi,77%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+42029,Institut Kesehatan dan Bisnis Annisa,,6,0,0,10,9,9,1,3,3,0,3,0,0,0,1,1,0,6,3,0,26%,Belum Tervalidasi,46%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+42025,Institut Kesehatan Immanuel,,6,6,6,5,0,0,7,3,0,0,4,0,0,0,5,0,0,6,0,0,17%,Belum Tervalidasi,17%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+42017,Institut Kesehatan Rajawali,,6,6,6,9,8,8,0,3,3,3,0,0,0,0,9,6,6,6,5,5,80%,Belum Tervalidasi,80%,Belum Terverifikasi,94%,Tidak Lengkap,Merah
+42011,Institut Manajemen Wiyata Indonesia,,6,6,2,10,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Hijau
+42031,Institut Pangeran Dharma Kusuma,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+42023,Institut Pendidikan dan Bahasa Invada,1,0,0,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Kuning
+42013,Institut Pendidikan Indonesia Garut,,6,6,6,10,10,10,5,3,3,3,2,2,2,7,4,4,4,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Kuning
+42032,Institut Prima Bangsa,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+42024,Institut Teknologi Al-Muhajirin,,6,6,6,10,10,10,1,3,3,3,4,4,4,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+42026,Institut Teknologi dan Bisnis Banten,,6,6,6,10,10,10,0,3,3,3,0,0,0,1,3,3,3,6,6,5,77%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+42018,Institut Teknologi dan Bisnis Bina Sarana Global,,6,6,6,10,6,6,2,3,1,1,4,1,1,7,3,3,3,6,0,0,46%,Belum Tervalidasi,46%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+42021,Institut Teknologi dan Bisnis Riyadlul Ulum,,6,0,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9%,Belum Tervalidasi,9%,Belum Terverifikasi,26%,Tidak Lengkap,Kuning
+42019,Institut Teknologi dan Bisnis Visi Nusantara Bogor,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+42028,Institut Teknologi dan Kesehatan Mahardika,,6,6,6,10,10,10,0,3,3,3,3,3,2,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+42020,Institut Teknologi Garut,,6,6,6,10,10,10,15,3,0,0,1,0,0,0,2,0,0,6,6,6,63%,Belum Tervalidasi,63%,Belum Terverifikasi,77%,Tidak Lengkap,Kuning
+42006,Institut Teknologi Harapan Bangsa,,6,6,6,6,6,6,3,3,3,3,4,3,3,0,2,2,0,6,6,6,60%,Belum Tervalidasi,66%,Belum Terverifikasi,66%,Tidak Lengkap,Hijau
+42002,Institut Teknologi Nasional Bandung,,6,6,6,10,10,10,1,3,3,3,2,2,2,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+42027,Institut Teknologi Petroleum Balongan,,6,6,6,10,10,10,5,3,3,3,4,4,4,1,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+42005,Institut Teknologi Sains Bandung,,6,6,6,10,10,10,7,3,0,0,4,4,4,0,7,7,7,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,91%,Tidak Lengkap,Merah
+42015,Institut Teknologi Tangerang Selatan,,6,6,6,10,10,10,0,3,3,3,4,4,1,0,1,1,0,6,6,2,60%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+41129,Lancaster University,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+41103,Monash University Indonesia,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Hijau
+45022,Politeknik Agroindustri,,6,6,1,9,9,0,0,3,3,3,4,3,0,0,7,7,0,6,0,0,11%,Belum Tervalidasi,71%,Belum Terverifikasi,89%,Tidak Lengkap,Merah
+45030,Politeknik Al-Islam Bandung,,6,6,6,6,6,6,5,3,3,3,3,0,0,1,6,6,6,6,6,1,63%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Kuning
+45046,Politeknik Bhakti Asih Purwakarta,,6,6,6,10,10,10,0,3,3,3,4,0,0,0,10,10,2,6,3,3,69%,Belum Tervalidasi,91%,Belum Terverifikasi,100%,Sudah Unggah,Kuning
+45050,Politeknik Bhakti Kartini,,6,2,1,10,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,34%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+45004,Politeknik Bina Budaya Cipta,,6,5,5,10,10,10,0,3,3,2,4,4,1,0,3,3,0,0,0,0,49%,Belum Tervalidasi,60%,Belum Terverifikasi,63%,Tidak Lengkap,Merah
+45053,Politeknik Bina Madani,,6,6,6,4,4,4,0,3,3,3,0,0,0,0,6,6,6,6,5,5,69%,Belum Tervalidasi,69%,Belum Terverifikasi,71%,Tidak Lengkap,Hijau
+45070,Politeknik Bisnis Digital Indonesia,,6,4,4,10,7,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,Belum Tervalidasi,31%,Belum Terverifikasi,46%,Tidak Lengkap,Hijau
+45055,Politeknik Bisnis Mayasari,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+45056,Politeknik Digital Boash Indonesia,,6,6,6,9,9,9,8,3,3,3,1,1,1,0,5,5,5,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+45042,Politeknik Enjinering Indorama,,6,6,6,10,10,10,0,3,3,3,1,0,0,0,9,9,9,6,5,5,94%,Belum Tervalidasi,94%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+45003,Politeknik Gajah Tunggal,,6,1,0,10,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0,0%,Tidak Ada,3%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+45036,Politeknik Geologi Dan Pertambangan Agp,,6,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,Belum Tervalidasi,3%,Belum Terverifikasi,26%,Tidak Lengkap,Kuning
+45019,Politeknik Gunakarya Indonesia Bekasi,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+45061,Politeknik IDN Bogor,,6,6,0,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,37%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+45048,Politeknik Industri ATMI,,6,6,6,10,3,3,0,3,3,3,1,0,0,2,9,9,0,6,6,1,37%,Belum Tervalidasi,77%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+45066,Politeknik Istikom Bina Citra Informatika,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+45032,Politeknik Kelapa Sawit Citra Widya Edukasi,,6,2,1,10,0,0,0,3,3,3,0,0,0,0,7,0,0,6,1,1,14%,Belum Tervalidasi,17%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+45025,Politeknik Kent,1,0,0,6,0,0,10,1,0,0,3,0,0,4,0,0,0,3,0,0,6,80%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Kuning
+45065,Politeknik Kepribadian,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+45045,Politeknik Kesehatan Aisyiyah Banten,,6,6,6,10,10,10,0,2,2,2,0,0,0,0,4,0,0,0,0,0,51%,Belum Tervalidasi,51%,Belum Terverifikasi,63%,Tidak Lengkap,Merah
+45033,Politeknik Kesehatan Bhakti Pertiwi Husada,,6,6,6,10,10,10,1,3,3,3,2,1,1,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+45051,Politeknik Kesehatan Genesis Medicare,,6,6,6,9,9,9,2,3,3,3,3,3,3,0,3,3,3,6,6,6,77%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Merah
+45057,Politeknik Kesehatan KMC Kuningan,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+45034,Politeknik Kesehatan TNI-AU Ciumbuleuit,,6,6,6,5,5,5,0,3,3,3,3,3,3,0,3,3,3,6,5,5,63%,Belum Tervalidasi,63%,Belum Terverifikasi,66%,Tidak Lengkap,Hijau
+45059,Politeknik Kesehatan YBA Bandung,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+45006,Politeknik Krakatau,,6,3,2,8,0,0,0,3,3,3,1,0,0,0,8,0,0,6,0,0,14%,Belum Tervalidasi,17%,Belum Terverifikasi,89%,Tidak Lengkap,Kuning
+45052,Politeknik Lembaga Pendidikan dan Pengembangan Profesi Indonesia,,6,6,6,10,10,10,0,3,3,3,4,0,0,1,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+45069,Politeknik Mardira Indonesia,,6,0,0,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,46%,Tidak Lengkap,Hijau
+45060,Politeknik Maritim Eka Utama Subang,,6,6,0,10,0,0,0,3,3,2,4,4,0,0,5,5,0,6,5,0,6%,Belum Tervalidasi,54%,Belum Terverifikasi,86%,Tidak Lengkap,Merah
+45062,Politeknik Merdeka Belajar Indonesia,,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,26%,Tidak Lengkap,Kuning
+45043,Politeknik Meta Industri Cikarang,,6,6,6,9,9,9,6,3,3,2,4,0,0,2,9,9,9,6,6,5,89%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Merah
+45002,Politeknik Pajajaran Insan Cinta Bangsa Bandung,,6,6,6,5,5,0,0,3,2,1,1,1,1,0,4,4,0,6,0,0,20%,Belum Tervalidasi,49%,Belum Terverifikasi,69%,Tidak Lengkap,Merah
+45044,Politeknik Pariwisata Prima Internasional,,6,5,5,10,10,10,0,3,2,2,1,1,1,0,3,3,3,6,3,3,66%,Belum Tervalidasi,66%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+45023,Politeknik Perdana Mandiri,,6,6,0,5,5,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0%,Tidak Ada,31%,Belum Terverifikasi,31%,Tidak Lengkap,Kuning
+45028,Politeknik PGRI Banten,,6,3,3,6,6,6,1,1,0,0,1,0,0,0,0,0,0,1,1,0,26%,Belum Tervalidasi,29%,Belum Terverifikasi,40%,Tidak Lengkap,Merah
+45027,Politeknik Piksi Ganesha,,6,6,6,10,10,10,16,3,3,3,4,4,4,6,8,8,8,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Merah
+45010,Politeknik Piksi Input Serang,,6,6,6,5,5,5,0,3,3,3,4,4,3,0,5,5,5,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+45018,Politeknik Praktisi Bandung,,6,6,4,10,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+45071,Politeknik Prasetiya Mandiri,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+45047,Politeknik Sains Seni Rekakreasi,,6,5,5,10,10,0,3,0,0,0,1,1,1,1,0,0,0,0,0,0,14%,Belum Tervalidasi,43%,Belum Terverifikasi,46%,Tidak Lengkap,Kuning
+45067,Politeknik Siber Cerdika Internasional,,6,0,0,10,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,54%,Tidak Lengkap,Kuning
+45020,Politeknik Sukabumi,,6,6,6,0,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,0,17%,Belum Tervalidasi,17%,Belum Terverifikasi,43%,Tidak Lengkap,Kuning
+45058,Politeknik Takumi,,6,5,5,10,10,10,3,3,3,3,4,0,0,1,6,6,6,6,3,3,77%,Belum Tervalidasi,77%,Belum Terverifikasi,89%,Tidak Lengkap,Kuning
+45016,Politeknik TEDC,,6,6,6,10,10,10,1,3,3,3,3,3,3,2,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+45049,Politeknik Tiara Bunda,,6,6,6,10,10,10,4,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+45012,Politeknik Tri Mitra Karya Mandiri,,6,6,6,10,10,10,0,3,3,3,0,0,0,0,1,1,1,6,5,5,71%,Belum Tervalidasi,71%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+45037,Politeknik Triguna Tasikmalaya,,6,6,6,10,10,10,0,3,3,3,0,0,0,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+45041,Politeknik Tunas Pemuda,,6,6,6,10,10,10,2,3,3,3,3,1,1,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+45068,Politeknik Yusuf Mansur,,6,1,1,10,0,0,0,3,0,0,1,0,0,0,1,0,0,6,0,0,3%,Belum Tervalidasi,3%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+45063,Politeknik Zanjabila Banten,,6,6,0,7,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,37%,Belum Terverifikasi,37%,Tidak Lengkap,Kuning
+45029,Politenik Kesehatan Yapkesbi Sukabumi,,6,6,6,6,4,0,14,3,3,2,3,0,0,0,2,2,0,6,6,0,23%,Belum Tervalidasi,60%,Belum Terverifikasi,66%,Tidak Lengkap,Merah
+43317,Sekolah Tinggi Analis Bakti Asih,,6,2,2,10,2,2,1,3,3,3,0,0,0,0,0,0,0,0,0,0,20%,Belum Tervalidasi,20%,Belum Terverifikasi,54%,Tidak Lengkap,Merah
+43259,Sekolah Tinggi Analis Kimia Cilegon,,6,6,1,6,6,6,1,3,3,3,3,1,1,0,6,6,6,6,6,1,49%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Merah
+43272,Sekolah Tinggi Bahasa Asing Bina Dinamika Cianjur,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+43246,Sekolah Tinggi Bahasa Asing Cipto Hadi Pranoto,,6,6,6,9,8,5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,Belum Tervalidasi,40%,Belum Terverifikasi,43%,Tidak Lengkap,Kuning
+43312,Sekolah Tinggi Bahasa Asing IEC Bekasi,1,0,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43131,Sekolah Tinggi Bahasa Asing JIA,,6,6,6,8,8,8,0,3,3,3,0,0,0,0,3,3,3,6,6,0,57%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+43196,Sekolah Tinggi Bahasa Asing Technocrat,,6,6,6,10,10,10,4,3,3,3,4,4,4,1,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+43035,Sekolah Tinggi Bahasa Asing Yapari,,6,6,6,10,10,10,7,3,3,3,3,2,2,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43079,Sekolah Tinggi Desain Indonesia Bandung,,6,6,6,10,10,10,0,3,3,3,4,4,2,0,0,0,0,2,2,2,60%,Belum Tervalidasi,60%,Belum Terverifikasi,60%,Tidak Lengkap,Merah
+43191,Sekolah Tinggi Farmasi Indonesia,,6,6,6,10,10,10,7,3,3,3,1,0,0,0,8,8,8,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Merah
+43355,Sekolah Tinggi Farmasi Muhammadiyah Cirebon,,6,0,0,6,6,6,1,3,0,0,4,0,0,0,9,0,0,6,0,0,17%,Belum Tervalidasi,17%,Belum Terverifikasi,86%,Tidak Lengkap,Merah
+43001,Sekolah Tinggi Hukum Bandung,,6,6,6,10,10,10,0,3,1,1,4,0,0,0,8,0,0,6,0,0,49%,Belum Tervalidasi,49%,Belum Terverifikasi,94%,Tidak Lengkap,Kuning
+43002,Sekolah Tinggi Hukum Galunggung,,6,1,1,10,0,0,2,3,0,0,4,0,0,0,10,0,0,6,0,0,3%,Belum Tervalidasi,3%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+43029,Sekolah Tinggi Hukum Garut,,6,6,6,3,3,3,0,3,3,1,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,34%,Belum Terverifikasi,34%,Tidak Lengkap,Merah
+43003,Sekolah Tinggi Hukum Pasundan,,6,6,5,9,9,9,6,3,1,0,4,4,0,0,5,5,5,6,6,6,71%,Belum Tervalidasi,77%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+43042,Sekolah Tinggi Ilmu Administrasi Bagasasi,1,0,0,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Merah
+43141,Sekolah Tinggi Ilmu Administrasi Bandung,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43215,Sekolah Tinggi Ilmu Administrasi Banten,,6,0,0,10,0,0,3,3,0,0,4,0,0,0,10,0,0,6,0,0,0%,Tidak Ada,0%,Tidak Ada,100%,Sudah Unggah,Kuning
+43255,Sekolah Tinggi Ilmu Administrasi Cimahi,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+43010,Sekolah Tinggi Ilmu Administrasi Maulana Yusuf Banten,,6,6,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,Belum Tervalidasi,26%,Belum Terverifikasi,26%,Tidak Lengkap,Kuning
+43033,Sekolah Tinggi Ilmu Administrasi Menara Siswa,,6,6,6,10,10,6,0,3,3,0,4,0,0,0,1,1,0,6,6,0,34%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43214,Sekolah Tinggi Ilmu Administrasi Sandikta,,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,14%,Belum Tervalidasi,17%,Belum Terverifikasi,20%,Tidak Lengkap,Merah
+43014,Sekolah Tinggi Ilmu Administrasi YPPT Tasikmalaya,,6,6,6,10,10,10,29,3,3,3,0,0,0,0,3,3,0,6,0,0,54%,Belum Tervalidasi,63%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+43391,Sekolah Tinggi Ilmu Ekonomi Arlindo,,6,6,4,10,10,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+43266,Sekolah Tinggi Ilmu Ekonomi Banten,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43227,Sekolah Tinggi Ilmu Ekonomi BII Bekasi,,6,6,6,10,10,10,0,3,3,3,4,4,1,2,10,0,0,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,100%,Sudah Unggah,Kuning
+43180,Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43236,Sekolah Tinggi Ilmu Ekonomi Budi Pertiwi,,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,Belum Tervalidasi,6%,Belum Terverifikasi,17%,Tidak Lengkap,Merah
+43094,Sekolah Tinggi Ilmu Ekonomi Cirebon,,6,6,6,8,6,6,5,3,2,0,3,0,0,0,1,1,0,6,4,4,46%,Belum Tervalidasi,54%,Belum Terverifikasi,69%,Tidak Lengkap,Merah
+43171,Sekolah Tinggi Ilmu Ekonomi Dewantara,,6,0,0,7,7,0,0,3,0,0,1,1,1,0,1,0,0,1,1,0,0%,Tidak Ada,23%,Belum Terverifikasi,51%,Tidak Lengkap,Kuning
+43384,Sekolah Tinggi Ilmu Ekonomi Dharma Agung Indonesia,,6,2,2,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,Belum Tervalidasi,6%,Belum Terverifikasi,37%,Tidak Lengkap,Kuning
+43199,Sekolah Tinggi Ilmu Ekonomi Dr Kh Ez Mutaqien,,6,0,0,10,0,0,6,3,0,0,4,0,0,0,10,0,0,6,0,0,0%,Tidak Ada,0%,Tidak Ada,100%,Sudah Unggah,Hijau
+43316,Sekolah Tinggi Ilmu Ekonomi Dwimulya,,6,1,1,10,10,6,3,3,3,3,1,1,1,0,1,1,1,6,6,6,49%,Belum Tervalidasi,60%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43349,Sekolah Tinggi Ilmu Ekonomi Ekadharma Indonesia,,6,6,6,10,10,10,0,3,3,3,3,3,3,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+43022,Sekolah Tinggi Ilmu Ekonomi Ekuitas,,6,6,6,10,10,10,6,3,3,3,4,2,2,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43127,Sekolah Tinggi Ilmu Ekonomi Fajar,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+43128,Sekolah Tinggi Ilmu Ekonomi Gema Widya Bangsa,,6,6,6,10,10,10,0,3,3,3,1,0,0,1,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43273,Sekolah Tinggi Ilmu Ekonomi Gici,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43296,Sekolah Tinggi Ilmu Ekonomi Harapan Bangsa,,6,6,6,6,5,5,3,3,3,3,4,2,2,0,2,2,2,6,6,6,63%,Belum Tervalidasi,63%,Belum Terverifikasi,66%,Tidak Lengkap,Merah
+43310,Sekolah Tinggi Ilmu Ekonomi Hidayatullah Depok,,6,3,3,10,4,4,1,3,0,0,2,0,0,0,3,0,0,6,0,0,20%,Belum Tervalidasi,20%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+43176,Sekolah Tinggi Ilmu Ekonomi Kalpataru,,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,34%,Tidak Lengkap,Merah
+43064,Sekolah Tinggi Ilmu Ekonomi La Tansa Mashiro,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43170,Sekolah Tinggi Ilmu Ekonomi Latifah Mubarokiyah,,6,6,6,10,7,7,3,3,3,3,4,4,4,1,10,10,10,6,6,6,91%,Belum Tervalidasi,91%,Belum Terverifikasi,100%,Sudah Unggah,Hijau
+43379,Sekolah Tinggi Ilmu Ekonomi Manajemen Bisnis Indonesia,,6,5,5,9,9,9,0,2,2,2,0,0,0,0,1,0,0,0,0,0,46%,Belum Tervalidasi,46%,Belum Terverifikasi,51%,Tidak Lengkap,Merah
+43088,Sekolah Tinggi Ilmu Ekonomi Miftahul Huda,,6,6,6,10,10,10,2,3,3,3,0,0,0,0,2,2,2,6,6,6,77%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Merah
+43089,Sekolah Tinggi Ilmu Ekonomi Mulia Pratama,,6,6,6,10,10,10,0,3,3,3,3,3,3,6,10,10,10,6,1,1,86%,Belum Tervalidasi,86%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+43149,Sekolah Tinggi Ilmu Ekonomi Pandu Madania,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43195,Sekolah Tinggi Ilmu Ekonomi Paripurna,,6,6,4,10,10,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Kuning
+43056,Sekolah Tinggi Ilmu Ekonomi Pariwisata YAPARI,,6,0,0,8,8,0,0,3,0,0,1,0,0,0,9,1,0,6,0,0,0%,Tidak Ada,26%,Belum Terverifikasi,91%,Tidak Lengkap,Merah
+43043,Sekolah Tinggi Ilmu Ekonomi Pasundan,,6,6,6,10,10,10,6,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43194,Sekolah Tinggi Ilmu Ekonomi Ppi,,6,6,6,10,10,10,0,3,3,3,0,0,0,1,2,1,0,6,0,0,54%,Belum Tervalidasi,57%,Belum Terverifikasi,77%,Tidak Lengkap,Merah
+43153,Sekolah Tinggi Ilmu Ekonomi Stan Im,1,0,0,1,0,0,0,7,0,0,0,0,0,0,2,0,0,4,0,0,4,26%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43155,Sekolah Tinggi Ilmu Ekonomi Stmy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43119,Sekolah Tinggi Ilmu Ekonomi Sutaatmadja,,6,6,6,9,9,9,2,3,0,0,0,0,0,0,9,0,0,1,0,0,43%,Belum Tervalidasi,43%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43096,Sekolah Tinggi Ilmu Ekonomi Tri Bhakti,,6,6,6,9,9,9,0,3,3,3,4,4,4,0,0,0,0,0,0,0,51%,Belum Tervalidasi,51%,Belum Terverifikasi,51%,Tidak Lengkap,Hijau
+43181,Sekolah Tinggi Ilmu Ekonomi Tribuana,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43075,Sekolah Tinggi Ilmu Ekonomi Triguna,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Hijau
+43390,Sekolah Tinggi Ilmu Ekonomi Triguna,,6,6,6,10,10,10,0,3,3,3,3,0,0,0,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Kuning
+43172,Sekolah Tinggi Ilmu Ekonomi Wibawa Karta Raharja,,6,6,3,6,6,5,0,3,3,2,4,4,0,0,1,1,0,6,6,1,31%,Belum Tervalidasi,63%,Belum Terverifikasi,63%,Tidak Lengkap,Merah
+43074,Sekolah Tinggi Ilmu Ekonomi Yasa Anggana,,6,6,6,10,10,10,5,3,3,3,4,0,0,0,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+43114,Sekolah Tinggi Ilmu Ekonomi Yasmi,,6,6,5,7,7,4,0,3,3,2,4,4,4,0,4,4,3,6,6,6,57%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43093,Sekolah Tinggi Ilmu Ekonomi YP-Karya,,6,6,2,10,9,0,0,3,0,0,4,0,0,0,1,0,0,6,0,0,6%,Belum Tervalidasi,43%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43134,Sekolah Tinggi Ilmu Ekonomi YPN,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43364,Sekolah Tinggi Ilmu Hukum dan Politik Pelopor Bangsa,,6,6,6,7,7,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37%,Belum Tervalidasi,37%,Belum Terverifikasi,37%,Tidak Lengkap,Merah
+43247,Sekolah Tinggi Ilmu Hukum Dharma Andhiga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43106,Sekolah Tinggi Ilmu Hukum Gunung Jati,,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17%,Belum Tervalidasi,17%,Belum Terverifikasi,17%,Tidak Lengkap,Kuning
+43329,Sekolah Tinggi Ilmu Hukum Painan,,6,4,4,10,0,0,0,1,0,0,0,0,0,0,10,0,0,0,0,0,11%,Belum Tervalidasi,11%,Belum Terverifikasi,77%,Tidak Lengkap,Merah
+43315,Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat,,6,0,0,10,10,10,0,3,0,0,4,1,1,1,1,1,1,6,6,6,49%,Belum Tervalidasi,49%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43372,Sekolah Tinggi Ilmu Kesehatan Ahmad Dahlan Cirebon,,6,6,6,6,6,6,4,3,0,0,3,0,0,0,6,6,6,6,6,6,69%,Belum Tervalidasi,69%,Belum Terverifikasi,77%,Tidak Lengkap,Hijau
+43387,Sekolah Tinggi Ilmu Kesehatan Aksari,,6,6,0,10,10,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,46%,Belum Terverifikasi,54%,Tidak Lengkap,Kuning
+43295,Sekolah Tinggi Ilmu Kesehatan Bani Saleh,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43231,Sekolah Tinggi Ilmu Kesehatan Banten,,6,6,6,10,10,10,3,3,3,3,1,1,1,0,9,9,7,6,6,6,91%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+43389,Sekolah Tinggi Ilmu Kesehatan Bhakti Husada Cikarang,,6,6,6,9,9,9,1,3,3,3,0,0,0,0,1,1,1,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,71%,Tidak Lengkap,Hijau
+43188,Sekolah Tinggi Ilmu Kesehatan Bina Putera Banjar,,6,6,5,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Hijau
+43365,Sekolah Tinggi Ilmu Kesehatan Bogor Husada,,6,6,6,7,7,7,1,3,0,0,0,0,0,0,6,6,6,6,2,2,60%,Belum Tervalidasi,60%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+43284,Sekolah Tinggi Ilmu Kesehatan Budhi Luhur Cimahi,,6,6,6,10,10,10,8,3,3,3,4,0,0,0,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Hijau
+43382,Sekolah Tinggi Ilmu Kesehatan Cianjur,,6,6,5,10,10,10,0,3,3,1,0,0,0,0,7,7,7,6,6,5,80%,Belum Tervalidasi,91%,Belum Terverifikasi,91%,Tidak Lengkap,Merah
+43178,Sekolah Tinggi Ilmu Kesehatan Cirebon,,6,6,6,10,10,10,1,3,3,2,4,4,2,0,1,1,0,6,6,6,69%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43212,Sekolah Tinggi Ilmu Kesehatan Dharma Husada,,6,6,6,10,10,10,4,3,2,2,1,1,1,1,7,6,0,6,5,5,66%,Belum Tervalidasi,83%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+43332,Sekolah Tinggi Ilmu Kesehatan Holistik,,6,1,1,10,10,10,2,3,0,0,3,1,1,0,3,3,3,6,2,2,46%,Belum Tervalidasi,46%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43381,Sekolah Tinggi Ilmu Kesehatan Horizon Karawang,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43213,Sekolah Tinggi Ilmu Kesehatan Indramayu,,6,6,6,10,10,10,1,3,3,3,4,4,4,1,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43366,Sekolah Tinggi Ilmu Kesehatan Khas Kempek,,6,6,6,9,9,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,43%,Belum Tervalidasi,43%,Belum Terverifikasi,43%,Tidak Lengkap,Merah
+43288,Sekolah Tinggi Ilmu Kesehatan Kuningan,,6,6,6,10,7,7,1,3,1,1,4,3,3,7,7,1,1,6,6,6,60%,Belum Tervalidasi,60%,Belum Terverifikasi,91%,Tidak Lengkap,Hijau
+43385,Sekolah Tinggi Ilmu Kesehatan Lenggogeni Padang,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43216,Sekolah Tinggi Ilmu Kesehatan Mahardika Cirebon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Hijau
+43371,Sekolah Tinggi Ilmu Kesehatan Pelita Ilmu Depok,,6,6,6,9,9,9,2,3,3,3,0,0,0,0,6,6,6,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Hijau
+43374,Sekolah Tinggi Ilmu Kesehatan Permata Nusantara,,6,6,6,10,10,10,17,3,3,3,4,4,3,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+43220,Sekolah Tinggi Ilmu Kesehatan Respati,,6,6,5,10,10,10,1,3,3,3,1,1,1,0,8,8,8,6,6,6,91%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Merah
+43386,Sekolah Tinggi Ilmu Kesehatan RS Dustira,,6,6,6,10,10,10,19,3,3,3,1,0,0,0,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+43358,Sekolah Tinggi Ilmu Kesehatan Salsabila Serang,,6,1,1,10,8,8,1,3,0,0,4,0,0,0,10,10,10,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,100%,Sudah Unggah,Hijau
+43301,Sekolah Tinggi Ilmu Kesehatan Santo Borromeus,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43286,Sekolah Tinggi Ilmu Kesehatan Sukabumi,,6,6,6,5,5,5,3,3,3,3,4,0,0,3,5,5,5,6,2,2,60%,Belum Tervalidasi,60%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+43282,Sekolah Tinggi Ilmu Kesehatan Widya Dharma Husada Tangerang,,6,6,6,10,10,10,7,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+43388,Sekolah Tinggi Ilmu Kesehatan Yayasan Lembaga Pendidikan Prada,,6,5,5,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43%,Belum Tervalidasi,43%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+43383,Sekolah Tinggi Ilmu Kesehatan YPSDMI,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+43359,Sekolah Tinggi Ilmu Komputer El Rahma,,6,6,6,10,10,10,2,3,3,3,4,0,0,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43177,Sekolah Tinggi Ilmu Komputer Poltek Cirebon,,6,0,0,6,6,6,0,3,3,3,3,3,3,0,10,1,0,6,0,0,26%,Belum Tervalidasi,29%,Belum Terverifikasi,89%,Tidak Lengkap,Hijau
+43045,Sekolah Tinggi Ilmu Komunikasi Bandung,1,0,0,3,0,0,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,17%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Merah
+43258,Sekolah Tinggi Ilmu Komunikasi Wangsa Jaya,,6,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,26%,Tidak Lengkap,Merah
+43207,Sekolah Tinggi Ilmu Manajemen Budi Bakti,,6,6,6,10,10,10,2,3,3,3,2,2,2,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43241,Sekolah Tinggi Ilmu Sosial Dan Ilmu Politik Bekasi,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+43182,Sekolah Tinggi Ilmu Teknik Bina Putra,,6,0,0,3,0,0,0,3,0,0,4,0,0,0,0,0,0,6,0,0,0%,Tidak Ada,0%,Tidak Ada,51%,Tidak Lengkap,Merah
+43346,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Al-Amin Indramayu,,6,2,2,10,7,7,3,3,1,1,4,4,2,0,0,0,0,0,0,0,29%,Belum Tervalidasi,29%,Belum Terverifikasi,54%,Tidak Lengkap,Merah
+43326,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Bina Mutiara,,6,6,6,10,10,10,4,3,3,3,4,4,4,5,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+43034,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Pasundan,,6,3,3,6,3,3,5,1,1,1,3,1,1,0,0,0,0,0,0,0,20%,Belum Tervalidasi,20%,Belum Terverifikasi,37%,Tidak Lengkap,Kuning
+43186,Sekolah Tinggi Kesehatan Indonesia Wirautama,,6,0,0,10,0,0,1,3,0,0,4,0,0,21,7,0,0,6,6,6,17%,Belum Tervalidasi,17%,Belum Terverifikasi,91%,Tidak Lengkap,Merah
+43377,Sekolah Tinggi Manajemen Informatika dan Komputer Al Muslim,,6,6,6,10,10,10,4,3,3,3,3,3,3,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43380,Sekolah Tinggi Manajemen Informatika dan Komputer Al-Fath,,6,6,6,10,10,10,0,3,3,3,0,0,0,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43378,Sekolah Tinggi Manajemen Informatika dan Komputer Horizon Karawang,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43392,Sekolah Tinggi Manajemen Informatika Komputer Tazkia,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+43057,Sekolah Tinggi Matematika & Ilmu Pengetahuan Alam,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43078,Sekolah Tinggi Pariwisata Ars Internasional,,6,6,6,9,3,3,6,3,1,1,1,0,0,0,8,8,3,6,5,5,51%,Belum Tervalidasi,66%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+43319,Sekolah Tinggi Pariwisata Bogor,,6,6,6,10,10,10,10,3,3,3,4,4,4,2,4,0,0,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,83%,Tidak Lengkap,Hijau
+43368,Sekolah Tinggi Pendidikan Holistik Berbasis Karakter,,6,1,1,7,3,3,0,3,0,0,1,0,0,3,1,0,0,6,0,0,11%,Belum Tervalidasi,11%,Belum Terverifikasi,66%,Tidak Lengkap,Merah
+43187,Sekolah Tinggi Seni Musik Bandung,,6,6,6,10,10,10,0,3,3,3,4,0,0,1,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43217,Sekolah Tinggi Teknik Karawang,,6,6,6,10,10,10,1,3,3,3,0,0,0,1,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Kuning
+43059,Sekolah Tinggi Teknologi Bandung,1,0,0,6,0,0,10,10,0,0,3,0,0,1,1,0,0,6,0,0,6,89%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43240,Sekolah Tinggi Teknologi Banten,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43044,Sekolah Tinggi Teknologi Bina Tunggal,,6,6,6,4,4,4,0,3,3,3,4,4,1,0,1,1,1,6,6,6,57%,Belum Tervalidasi,57%,Belum Terverifikasi,57%,Tidak Lengkap,Merah
+43100,Sekolah Tinggi Teknologi Cipasung,,6,6,6,10,10,10,1,3,3,3,1,1,1,0,3,3,0,6,6,6,71%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+43050,Sekolah Tinggi Teknologi Cirebon,,6,6,6,9,8,8,9,3,3,3,2,2,2,0,1,1,1,6,1,1,54%,Belum Tervalidasi,54%,Belum Terverifikasi,71%,Tidak Lengkap,Hijau
+43189,Sekolah Tinggi Teknologi Dr Kh Ez Muttaqien,,6,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,40%,Tidak Lengkap,Merah
+43290,Sekolah Tinggi Teknologi Duta Bangsa,,6,6,6,10,10,10,1,3,3,3,4,4,4,0,8,8,8,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Hijau
+43218,Sekolah Tinggi Teknologi Fatahillah Cilegon,,6,6,6,10,10,10,3,3,3,3,2,2,2,0,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Hijau
+43376,Sekolah Tinggi Teknologi Garut,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+43234,Sekolah Tinggi Teknologi Ilmu Komputer (STTIKOM) Insan Unggul,,6,6,6,10,10,10,0,3,3,3,4,3,3,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43132,Sekolah Tinggi Teknologi Industri dan Farmasi Bogor,,6,6,6,10,10,10,1,3,3,3,4,2,2,1,10,10,8,6,6,4,89%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+43192,Sekolah Tinggi Teknologi Informatika Sony Sugema,,6,6,6,10,10,10,0,3,3,3,1,1,1,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43113,Sekolah Tinggi Teknologi Jawa Barat,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43040,Sekolah Tinggi Teknologi Mandala,,6,6,6,10,10,10,7,3,3,3,4,4,4,0,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Kuning
+43049,Sekolah Tinggi Teknologi Mineral Indonesia,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+43253,Sekolah Tinggi Teknologi Muhammadiyah Cileungsi,,6,6,6,10,10,10,0,3,1,1,3,3,3,0,3,3,3,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43262,Sekolah Tinggi Teknologi Pratama Adi,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,1,0,0,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+43331,Sekolah Tinggi Teknologi Terpadu Nurul Fikri,,6,6,6,9,9,9,1,3,3,1,4,3,3,0,9,0,0,6,0,0,46%,Belum Tervalidasi,51%,Belum Terverifikasi,94%,Tidak Lengkap,Merah
+43107,Sekolah Tinggi Teknologi Texmaco,,6,6,6,3,3,3,0,3,3,3,1,1,1,0,3,3,3,6,1,1,46%,Belum Tervalidasi,46%,Belum Terverifikasi,60%,Tidak Lengkap,Hijau
+43167,Sekolah Tinggi Teknologi Wastukancana,,6,6,6,9,9,9,1,3,3,3,2,2,2,0,8,8,8,6,6,6,91%,Belum Tervalidasi,91%,Belum Terverifikasi,91%,Tidak Lengkap,Hijau
+43325,Sekolah Tinggi Teknologi YBS Internasional,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43269,STIE Dharma Negara,,6,6,6,10,10,10,2,3,3,3,0,0,0,0,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+43306,STIE Pasim Sukabumi,,6,6,6,10,10,10,27,3,3,3,3,3,3,5,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+43318,STIEB Perdana Mandiri,,6,6,6,8,8,8,3,3,1,1,3,0,0,2,3,0,0,6,1,1,46%,Belum Tervalidasi,46%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+43347,STIKES An Nasher Cirebon,,6,6,3,10,3,3,3,3,0,0,0,0,0,1,1,0,0,3,0,0,17%,Belum Tervalidasi,26%,Belum Terverifikasi,66%,Tidak Lengkap,Kuning
+43292,STIKES Faathir Husada,,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,Belum Tervalidasi,6%,Belum Terverifikasi,17%,Tidak Lengkap,Hijau
+43298,STIKES Karsa Husada Garut,,6,6,0,4,4,4,0,3,3,3,2,2,1,1,4,4,0,6,1,1,23%,Belum Tervalidasi,51%,Belum Terverifikasi,66%,Tidak Lengkap,Kuning
+43277,STIKES Muhammadiyah Ciamis,,6,6,6,10,10,10,2,3,3,3,4,1,1,1,7,2,2,6,6,6,77%,Belum Tervalidasi,77%,Belum Terverifikasi,91%,Tidak Lengkap,Hijau
+43356,STIKES Muhammadiyah Cirebon,,6,6,6,10,10,10,2,3,3,3,4,4,4,0,10,10,10,6,6,5,97%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+43361,STIKES Muhammadiyah Kuningan,,6,4,4,9,9,9,2,3,3,3,2,0,0,4,9,9,9,0,0,0,71%,Belum Tervalidasi,71%,Belum Terverifikasi,77%,Tidak Lengkap,Kuning
+43348,STIKES Prima Indonesia,,6,6,6,9,9,9,1,3,0,0,4,0,0,1,10,10,10,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+43351,STIKES Raflesia,,6,5,5,10,6,6,1,3,3,3,1,0,0,0,7,7,7,6,5,5,74%,Belum Tervalidasi,74%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+43270,STIKES Wijaya Husada Bogor,,6,6,6,10,10,10,3,3,0,0,3,0,0,0,3,3,3,6,0,0,54%,Belum Tervalidasi,54%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43239,STISIP Banten Raya,,6,6,6,6,3,3,0,3,3,3,2,0,0,0,3,0,0,6,0,0,34%,Belum Tervalidasi,34%,Belum Terverifikasi,69%,Tidak Lengkap,Merah
+43183,STISIP Bina Putera Banjar,,6,6,6,10,10,10,8,3,3,0,1,0,0,0,1,1,1,0,0,0,49%,Belum Tervalidasi,57%,Belum Terverifikasi,57%,Tidak Lengkap,Merah
+43327,STISIP Guna Nusantara,,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,20%,Tidak Lengkap,Merah
+43367,STISIP Samudera Indonesia Selatan,,6,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,34%,Tidak Lengkap,Merah
+43252,STISIP Setia Budhi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43148,STISIP Syamsul Ulum,,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,Belum Tervalidasi,3%,Belum Terverifikasi,17%,Tidak Lengkap,Hijau
+43110,STISIP Tasikmalaya,,6,6,6,3,3,3,0,0,0,0,0,0,0,0,0,0,0,6,6,6,43%,Belum Tervalidasi,43%,Belum Terverifikasi,43%,Tidak Lengkap,Merah
+43341,STISIP Trimasda Cilegon,,6,6,6,10,10,10,1,3,3,3,2,0,0,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43103,STISIP Widyapuri Mandiri,,6,6,6,10,10,10,2,3,3,3,4,0,0,0,10,10,10,6,0,0,83%,Belum Tervalidasi,83%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+43111,STKIP Arrahmaniyah,,6,6,4,6,6,6,0,3,0,0,0,0,0,0,1,0,0,0,0,0,29%,Belum Tervalidasi,34%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+43350,STKIP Babunnajah Pandeglang,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+43289,STKIP Banten,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Hijau
+43362,STKIP La Tansa Mashiro,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+43322,STKIP Muhammadiyah Bogor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43323,STKIP Muhammadiyah Kuningan,,6,6,6,9,9,9,1,3,3,3,3,3,3,0,10,10,10,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+43333,STKIP Mutiara Banten,,6,6,0,8,8,0,3,3,3,2,4,0,0,0,3,3,0,6,6,0,6%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43334,STKIP Nahdlatul Ulama Indramayu,,6,6,1,7,7,0,0,3,0,0,3,0,0,0,3,0,0,6,0,0,3%,Belum Tervalidasi,37%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+43340,STKIP PANCAKARYA,,6,6,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0%,Tidak Ada,63%,Belum Terverifikasi,63%,Tidak Lengkap,Merah
+43336,STKIP Pangeran Dharma Kusuma Segeran Juntinyuat Indramayu,1,0,0,6,0,0,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Hijau
+43335,STKIP Purwakarta,,6,0,0,10,0,0,7,3,0,0,3,0,0,0,6,0,0,6,0,0,0%,Tidak Ada,0%,Tidak Ada,89%,Tidak Lengkap,Kuning
+43223,STKIP Setia Budhi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43360,STKIP Sinar Cendekia,,6,6,6,10,10,10,6,3,3,1,1,1,1,4,9,9,9,1,1,1,77%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+43339,STKIP Situs Banten di Serang,,6,6,1,8,8,8,0,3,3,1,0,0,0,0,1,1,1,0,0,0,31%,Belum Tervalidasi,51%,Belum Terverifikasi,51%,Tidak Lengkap,Merah
+43321,STKIP Surya,,6,0,0,10,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9%,Belum Tervalidasi,9%,Belum Terverifikasi,46%,Tidak Lengkap,Kuning
+43344,STKIP Syekh Manshur,,6,5,5,8,0,0,0,3,0,0,4,0,0,0,9,0,0,6,0,0,14%,Belum Tervalidasi,14%,Belum Terverifikasi,91%,Tidak Lengkap,Merah
+43140,STKIP Yasika,,6,3,3,3,3,3,3,3,0,0,1,1,1,2,1,0,0,6,0,0,17%,Belum Tervalidasi,17%,Belum Terverifikasi,54%,Tidak Lengkap,Kuning
+43137,STMIK Amik Bandung,,6,5,5,5,5,5,0,3,3,3,1,0,0,1,8,8,8,6,6,6,77%,Belum Tervalidasi,77%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43311,STMIK Antar Bangsa,,6,4,4,10,8,8,1,3,2,2,1,0,0,0,1,0,0,0,0,0,40%,Belum Tervalidasi,40%,Belum Terverifikasi,57%,Tidak Lengkap,Merah
+43063,STMIK Bandung,,6,6,6,10,10,10,0,3,3,3,3,3,2,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+43108,STMIK Bani Saleh,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43121,STMIK Cilegon,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Merah
+43118,STMIK DCI,,6,6,6,10,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+43268,STMIK Dharma Negara,,6,6,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,46%,Belum Terverifikasi,46%,Tidak Lengkap,Kuning
+43233,STMIK Dharma Putra,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+43198,STMIK Ganesha Bandung,,6,4,0,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,40%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+43185,STMIK IKMI Cirebon,,6,6,6,10,10,10,0,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+43073,STMIK IM,1,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Hijau
+43086,STMIK Jabar,,6,1,1,10,8,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,26%,Belum Tervalidasi,26%,Belum Terverifikasi,46%,Tidak Lengkap,Merah
+43071,STMIK Likmi,,6,6,6,10,10,10,1,3,3,3,3,3,3,0,1,1,1,6,5,5,71%,Belum Tervalidasi,71%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+43027,STMIK Mardira Indonesia,,6,6,6,10,10,10,3,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+43251,STMIK Masa Depan,,6,0,0,10,0,0,3,3,0,0,0,0,0,11,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,54%,Tidak Lengkap,Hijau
+43232,STMIK Mercusuar,,6,6,6,8,8,8,0,2,2,2,1,1,1,0,0,0,0,6,6,6,63%,Belum Tervalidasi,63%,Belum Terverifikasi,63%,Tidak Lengkap,Kuning
+43238,STMIK MIC Cikarang,1,0,0,0,0,0,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,20%,Belum Tervalidasi,0%,Tidak Ada,0%,Tidak Ada,Merah
+43144,STMIK Pamitran,,6,6,1,10,10,8,0,3,3,2,3,3,0,0,6,6,0,6,6,0,31%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Kuning
+43242,STMIK PGRI Tangerang,,6,6,6,10,10,10,0,3,3,3,4,4,0,0,1,1,1,6,5,5,71%,Belum Tervalidasi,71%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+43109,STMIK Pranata Indonesia,,6,6,6,3,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,26%,Belum Tervalidasi,26%,Belum Terverifikasi,26%,Tidak Lengkap,Merah
+43139,STMIK Rosma,,6,6,6,8,8,8,4,3,3,3,4,0,0,0,5,5,5,6,0,0,63%,Belum Tervalidasi,63%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+43104,STMIK Tulus Cendekia,,6,6,6,10,10,10,0,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+43291,STMIK WIT Cirebon,,6,6,6,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,29%,Belum Terverifikasi,29%,Tidak Lengkap,Hijau
+41010,Universitas 17 Agustus 1945 Cirebon,,6,4,4,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,29%,Belum Tervalidasi,29%,Belum Terverifikasi,34%,Tidak Lengkap,Hijau
+41077,Universitas Adhirajasa Reswara Sanjaya,,6,6,6,9,9,9,6,3,3,3,1,1,1,0,9,9,9,6,6,5,91%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Kuning
+41011,Universitas Advent Indonesia,,6,6,6,10,10,10,3,3,3,3,0,0,0,0,6,6,6,6,6,5,86%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Merah
+41087,Universitas Aisyiyah Bandung,,6,6,6,10,10,10,4,3,3,3,4,4,4,0,6,6,6,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Kuning
+41037,Universitas Al-ghifari,,6,6,6,10,10,10,1,3,3,3,4,4,4,3,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+41092,Universitas Al-Khairiyah,,6,6,6,6,6,6,0,0,0,0,0,0,0,0,1,1,0,0,0,0,34%,Belum Tervalidasi,37%,Belum Terverifikasi,37%,Tidak Lengkap,Kuning
+41098,Universitas Bakti Tunas Husada,,6,6,6,5,5,5,2,3,3,3,4,3,3,0,3,3,3,6,6,6,66%,Belum Tervalidasi,66%,Belum Terverifikasi,66%,Tidak Lengkap,Merah
+41048,Universitas Bale Bandung,,6,6,5,8,8,1,9,3,3,3,1,0,0,0,1,1,0,6,6,6,43%,Belum Tervalidasi,69%,Belum Terverifikasi,69%,Tidak Lengkap,Kuning
+41119,Universitas Bani Saleh,,6,6,6,6,6,6,0,3,3,1,4,4,2,0,3,3,0,6,6,0,37%,Belum Tervalidasi,69%,Belum Terverifikasi,69%,Tidak Lengkap,Merah
+41109,Universitas Banten,,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,46%,Tidak Lengkap,Hijau
+41055,Universitas Banten Jaya,,6,6,6,10,10,10,14,3,3,3,4,4,3,0,2,2,2,6,6,6,77%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Merah
+41114,Universitas Bestari,,6,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,Belum Tervalidasi,17%,Belum Terverifikasi,17%,Tidak Lengkap,Hijau
+41068,Universitas Bhakti Kencana,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,8,8,8,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Kuning
+41065,Universitas Bina Bangsa,,6,6,2,10,10,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,23%,Belum Tervalidasi,46%,Belum Terverifikasi,46%,Tidak Lengkap,Hijau
+41074,Universitas Bina Insani,,6,6,6,10,10,10,3,3,3,3,4,4,4,2,7,7,7,6,6,6,91%,Belum Tervalidasi,91%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+41081,Universitas Binaniaga Indonesia,,6,6,6,10,9,9,0,3,3,3,4,4,4,0,8,4,4,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,94%,Tidak Lengkap,Kuning
+41062,Universitas Buana Perjuangan Karawang,,6,6,2,10,10,7,9,3,3,3,1,0,0,10,10,10,10,6,6,4,74%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+41060,Universitas Buddhi Dharma,,6,6,6,5,5,5,5,3,3,3,4,4,4,2,4,4,4,6,6,6,69%,Belum Tervalidasi,69%,Belum Terverifikasi,69%,Tidak Lengkap,Kuning
+41075,Universitas Catur Insan Cendekia,,6,6,6,8,8,8,2,3,3,3,4,0,0,1,4,4,4,6,6,5,74%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Hijau
+41086,Universitas Cendekia Abditama,,6,6,6,10,10,10,0,3,3,3,0,0,0,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+41089,Universitas Cipasung Tasikmalaya,,6,6,6,10,10,10,1,3,3,3,4,1,1,1,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+41019,Universitas Djuanda,,6,6,6,10,10,10,2,3,3,3,3,3,3,2,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41070,Universitas Faletehan,,6,6,6,10,10,10,0,3,3,3,2,2,2,0,10,0,0,6,1,1,57%,Belum Tervalidasi,57%,Belum Terverifikasi,100%,Sudah Unggah,Kuning
+41023,Universitas Galuh,,6,6,6,10,10,10,11,3,3,3,3,3,3,0,10,10,9,6,6,6,97%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41024,Universitas Garut,,6,6,6,10,10,10,12,3,3,3,1,0,0,1,4,4,4,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+41082,Universitas Global Jakarta,,6,6,6,10,8,8,2,3,3,3,4,3,3,1,5,5,5,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,86%,Tidak Lengkap,Kuning
+41066,Universitas Halim sanusi,,6,6,6,10,10,10,2,3,3,3,4,4,4,0,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Merah
+41127,Universitas Horizon Indonesia,,6,0,0,10,0,0,0,3,0,0,1,0,0,0,9,0,0,6,0,0,0%,Tidak Ada,0%,Tidak Ada,97%,Tidak Lengkap,Kuning
+41001,Universitas Ibn Khaldun Bogor,,6,5,5,10,8,8,2,3,3,3,4,1,1,0,9,1,0,6,6,6,63%,Belum Tervalidasi,66%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+41112,Universitas Ichsan Satya,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+41095,Universitas Indonesia Mandiri,,6,6,6,10,10,10,2,3,3,3,0,0,0,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+41093,Universitas Indonesia Membangun,,6,6,6,10,10,10,0,3,3,3,2,1,1,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+41046,Universitas Informatika Dan Bisnis Indonesia,,6,6,6,10,10,10,1,3,3,3,4,4,4,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+41084,Universitas Insan Cendekia Mandiri,,6,6,6,8,8,8,5,3,3,3,3,2,2,0,10,10,10,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Hijau
+41110,Universitas Insan Pembangunan Indonesia,,6,6,6,10,10,10,3,3,3,3,3,0,0,1,10,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+41106,Universitas Internasional Jakarta,,6,6,6,10,10,10,7,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41018,Universitas Islam 45,,6,6,6,10,10,10,7,3,3,3,0,0,0,3,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Merah
+41059,Universitas Islam Al-Ihya Kuningan,,6,0,0,9,4,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,11%,Belum Tervalidasi,11%,Belum Terverifikasi,49%,Tidak Lengkap,Kuning
+41002,Universitas Islam Bandung,,6,6,6,10,10,10,1,3,0,0,2,2,2,1,9,9,9,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,97%,Tidak Lengkap,Hijau
+41115,Universitas Islam Bunga Bangsa Cirebon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Kuning
+41003,Universitas Islam Nusantara,,6,6,6,10,10,10,0,3,0,0,4,2,2,0,7,7,7,6,1,1,69%,Belum Tervalidasi,69%,Belum Terverifikasi,91%,Tidak Lengkap,Merah
+41005,Universitas Islam Syekh-Yusuf,,6,6,6,10,10,10,2,3,3,3,4,0,0,0,4,4,4,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Hijau
+41021,Universitas Jenderal Achmad Yani,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+41076,Universitas Kartamulia Purwakarta,,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11%,Belum Tervalidasi,11%,Belum Terverifikasi,17%,Tidak Lengkap,Kuning
+41006,Universitas Katolik Parahyangan,,6,6,6,10,10,10,6,3,3,3,3,2,2,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41096,Universitas Kebangsaan Republik Indonesia,,6,6,6,10,10,10,9,3,3,3,3,3,2,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+41027,Universitas Komputer Indonesia,,6,2,2,10,10,10,10,3,2,2,2,1,1,4,8,8,8,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,94%,Tidak Lengkap,Hijau
+41102,Universitas Koperasi Indonesia,,6,4,3,10,10,10,2,3,3,3,3,1,1,1,10,10,10,6,6,3,83%,Belum Tervalidasi,94%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+41007,Universitas Kristen Maranatha,,6,6,6,10,10,10,4,3,0,0,4,0,0,1,10,10,10,6,6,6,91%,Belum Tervalidasi,91%,Belum Terverifikasi,100%,Sudah Unggah,Kuning
+41038,Universitas Kuningan,,6,6,6,10,10,10,6,3,3,2,4,4,4,0,10,10,10,6,6,6,97%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+41117,Universitas La Tansa Mashiro,,6,6,0,4,4,0,2,3,0,0,3,0,0,0,3,0,0,6,0,0,0%,Tidak Ada,29%,Belum Terverifikasi,63%,Tidak Lengkap,Kuning
+41015,Universitas Langlang Buana,,6,6,6,10,10,10,0,3,0,0,3,3,3,0,3,3,3,6,0,0,54%,Belum Tervalidasi,54%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+41120,Universitas Linggabuana PGRI Sukabumi,,6,6,6,10,5,5,3,3,3,3,0,0,0,0,1,1,1,5,5,5,57%,Belum Tervalidasi,57%,Belum Terverifikasi,71%,Tidak Lengkap,Hijau
+41058,Universitas Lintas Internasional Indonesia,,6,5,5,9,9,9,2,3,3,3,3,3,0,3,4,4,3,6,5,5,71%,Belum Tervalidasi,74%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+41104,Universitas Logistik dan Bisnis Internasional,,6,6,6,10,10,10,1,3,3,3,3,0,0,0,10,10,10,6,0,0,83%,Belum Tervalidasi,83%,Belum Terverifikasi,100%,Sudah Unggah,Merah
+41043,Universitas Majalengka,,6,6,6,10,10,10,6,3,3,3,1,1,1,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+41090,Universitas Mandiri,,6,6,6,10,4,4,1,3,0,0,4,0,0,0,9,9,9,6,2,2,60%,Belum Tervalidasi,60%,Belum Terverifikasi,97%,Tidak Lengkap,Merah
+41118,Universitas Mangku Wiyata,,6,6,6,10,2,2,7,3,0,0,3,0,0,0,3,0,0,6,0,0,23%,Belum Tervalidasi,23%,Belum Terverifikasi,80%,Tidak Lengkap,Kuning
+41073,Universitas Masoem,,6,6,6,8,7,7,5,3,2,2,4,0,0,0,1,1,1,6,6,6,63%,Belum Tervalidasi,63%,Belum Terverifikasi,69%,Tidak Lengkap,Merah
+41116,Universitas Matana,,6,0,0,10,0,0,7,3,0,0,3,0,0,0,5,0,0,6,0,0,0%,Tidak Ada,0%,Tidak Ada,86%,Tidak Lengkap,Kuning
+41032,Universitas Mathla ul Anwar,,6,6,6,10,10,10,3,3,3,3,3,3,3,0,1,1,1,5,5,5,71%,Belum Tervalidasi,71%,Belum Terverifikasi,71%,Tidak Lengkap,Merah
+41125,Universitas Mayasari Bakti,,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,46%,Tidak Lengkap,Merah
+41094,Universitas Medika Suherman,,6,6,6,10,10,10,4,3,3,3,3,3,3,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Hijau
+41069,Universitas Mitra Karya,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+41101,Universitas Muhammadiyah A.R. Fachruddin,,6,0,0,10,10,10,6,3,3,3,0,0,0,0,1,1,1,6,2,2,46%,Belum Tervalidasi,46%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+41064,Universitas Muhammadiyah Bandung,,6,6,6,10,10,10,1,3,3,3,2,1,1,0,8,8,8,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Hijau
+41080,Universitas Muhammadiyah Banten,,6,2,2,5,5,5,2,3,0,0,0,0,0,0,0,0,0,6,0,0,20%,Belum Tervalidasi,20%,Belum Terverifikasi,57%,Tidak Lengkap,Kuning
+41113,Universitas Muhammadiyah Bogor Raya,,6,6,6,9,7,0,5,3,3,0,1,1,1,0,1,1,0,6,6,0,17%,Belum Tervalidasi,66%,Belum Terverifikasi,71%,Tidak Lengkap,Kuning
+41029,Universitas Muhammadiyah Cirebon,,6,6,6,10,10,10,1,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41040,Universitas Muhammadiyah Sukabumi,,6,6,6,9,9,9,3,3,3,3,2,1,1,0,9,9,8,0,0,0,74%,Belum Tervalidasi,77%,Belum Terverifikasi,77%,Tidak Lengkap,Kuning
+41051,Universitas Muhammadiyah Tangerang,,6,6,6,7,7,7,5,3,3,3,3,3,3,0,1,1,1,6,6,6,66%,Belum Tervalidasi,66%,Belum Terverifikasi,66%,Tidak Lengkap,Hijau
+41061,Universitas Muhammadiyah Tasikmalaya,,6,6,6,10,10,10,5,3,3,3,0,0,0,1,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41054,Universitas Nahdlatul Ulama Cirebon,,6,6,6,10,8,8,0,3,2,2,3,1,1,0,1,1,1,6,6,6,66%,Belum Tervalidasi,66%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+41031,Universitas Nasional Pasim,,6,6,6,10,10,10,7,3,3,3,4,4,1,3,8,8,8,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,94%,Tidak Lengkap,Hijau
+41025,Universitas Nurtanio,,6,6,6,10,10,10,1,3,3,3,3,0,0,0,10,10,10,6,6,0,83%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41020,Universitas Nusa Bangsa,,6,5,5,8,6,6,0,3,3,3,4,1,1,0,3,3,3,6,0,0,49%,Belum Tervalidasi,49%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+41067,Universitas Nusa Putra,,6,5,5,10,10,10,36,3,3,3,3,3,3,2,10,10,10,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,100%,Sudah Unggah,Hijau
+41004,Universitas Pakuan,,6,6,6,10,10,10,15,3,3,3,4,4,4,1,10,10,5,6,6,6,86%,Belum Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41033,Universitas Pamulang,,6,6,6,10,10,10,5,3,3,3,2,2,2,0,6,6,6,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Hijau
+41078,Universitas Panca Sakti Bekasi,,6,6,6,10,10,10,5,3,1,1,4,4,3,0,10,10,10,6,6,6,94%,Belum Tervalidasi,94%,Belum Terverifikasi,100%,Sudah Unggah,Hijau
+41008,Universitas Pasundan,,6,6,6,10,10,10,61,3,3,3,4,4,4,6,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+41072,Universitas Pelita Bangsa,,6,5,5,7,7,7,12,3,3,3,3,3,2,1,10,10,0,6,6,6,60%,Belum Tervalidasi,89%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+41053,Universitas Pembangunan Jaya,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+41063,Universitas Perjuangan Tasikmalaya,,6,6,6,10,7,7,3,3,3,3,4,4,4,1,1,1,1,6,6,6,66%,Belum Tervalidasi,66%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+41083,Universitas Persatuan Islam,,6,6,6,10,10,10,0,3,3,3,4,4,4,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+41108,Universitas Pertiwi,,6,6,6,10,10,10,0,3,3,3,4,0,0,0,5,3,3,6,1,1,66%,Belum Tervalidasi,66%,Belum Terverifikasi,86%,Tidak Lengkap,Merah
+41039,Universitas Pramita Indonesia,,6,1,1,10,6,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,20%,Belum Tervalidasi,20%,Belum Terverifikasi,49%,Tidak Lengkap,Hijau
+41041,Universitas Presiden,,6,6,6,10,10,10,1,3,3,3,4,4,3,0,10,9,9,6,5,5,94%,Belum Tervalidasi,94%,Belum Terverifikasi,100%,Sudah Unggah,Hijau
+41079,Universitas Primagraha,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Hijau
+41035,Universitas Putra Indonesia,,6,6,6,10,10,10,7,3,3,3,0,0,0,0,9,9,9,6,6,6,97%,Belum Tervalidasi,97%,Belum Terverifikasi,97%,Tidak Lengkap,Hijau
+41071,Universitas Raharja,,6,6,6,10,7,7,8,3,1,1,4,4,4,0,9,9,8,6,6,6,80%,Belum Tervalidasi,83%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+41100,Universitas Sali Al-Aitaam,,6,6,6,9,9,9,1,3,3,3,4,0,0,0,5,5,5,6,6,6,83%,Belum Tervalidasi,83%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+41044,Universitas Sangga Buana,,6,6,6,10,10,10,6,3,3,3,1,1,1,0,5,5,5,6,6,6,86%,Belum Tervalidasi,86%,Belum Terverifikasi,86%,Tidak Lengkap,Merah
+41123,Universitas Santo Borromeus,,6,6,6,8,7,7,5,3,3,3,3,2,2,0,3,3,3,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+41124,Universitas Satu,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Kuning
+41097,Universitas Sebelas April,,6,5,5,3,3,3,1,3,0,0,0,0,0,0,9,0,0,1,0,0,23%,Belum Tervalidasi,23%,Belum Terverifikasi,63%,Tidak Lengkap,Kuning
+41126,Universitas Sehati Indonesia,,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,26%,Tidak Lengkap,Merah
+41049,Universitas Serang Raya,,6,5,5,8,8,8,0,0,0,0,3,3,3,0,6,6,5,6,5,5,66%,Belum Tervalidasi,69%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+41121,Universitas Setia Budhi Rangkasbitung,,6,6,6,10,8,8,7,3,2,2,2,0,0,0,3,1,0,6,6,6,63%,Belum Tervalidasi,66%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+41042,Universitas Subang,,6,0,0,10,4,4,22,3,0,0,4,0,0,0,4,4,4,6,6,6,40%,Belum Tervalidasi,40%,Belum Terverifikasi,83%,Tidak Lengkap,Merah
+41056,Universitas Surya,,6,2,0,9,0,0,0,3,3,0,0,0,0,0,1,1,0,6,6,0,0%,Tidak Ada,34%,Belum Terverifikasi,71%,Tidak Lengkap,Hijau
+41030,Universitas Suryakancana,,6,4,2,10,6,6,10,3,2,2,2,2,1,13,4,0,0,6,4,2,34%,Belum Tervalidasi,46%,Belum Terverifikasi,83%,Tidak Lengkap,Kuning
+41088,Universitas Sutomo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+41009,Universitas Swadaya Gunung Jati,,6,6,6,10,10,10,1,3,3,3,1,1,1,0,6,6,6,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,89%,Tidak Lengkap,Hijau
+41026,Universitas Swiss German,,6,6,6,10,9,9,5,3,3,3,1,0,0,0,9,1,0,6,0,0,51%,Belum Tervalidasi,54%,Belum Terverifikasi,97%,Tidak Lengkap,Kuning
+41085,Universitas Tangerang Raya,,6,6,6,10,4,4,11,3,0,0,0,0,0,0,1,1,0,6,0,0,29%,Belum Tervalidasi,31%,Belum Terverifikasi,74%,Tidak Lengkap,Hijau
+41111,Universitas Teknologi Digital,,6,6,6,10,10,10,1,3,3,3,2,0,0,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41050,Universitas Teknologi Nusantara,,6,6,6,10,10,10,1,3,3,3,4,0,0,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Kuning
+41057,Universitas Telkom,,6,6,6,10,10,10,7,3,3,3,4,4,4,5,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Kuning
+41122,Universitas Utpadaka Swastika,,6,6,6,10,10,10,4,3,3,3,2,2,2,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Hijau
+41047,Universitas Wanita Internasional,,6,6,6,9,9,9,0,3,3,3,0,0,0,0,1,1,1,6,6,6,71%,Belum Tervalidasi,71%,Belum Terverifikasi,71%,Tidak Lengkap,Hijau
+41034,Universitas Widyatama,,6,6,6,10,10,10,2,3,3,3,4,4,4,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+41022,Universitas Winaya Mukti,,6,6,6,10,10,10,7,3,2,2,4,2,2,0,10,7,7,6,6,6,89%,Belum Tervalidasi,89%,Belum Terverifikasi,100%,Sudah Unggah,Kuning
+41014,Universitas Wiralodra,,6,6,6,10,10,10,2,3,3,3,1,1,0,1,7,7,7,6,6,6,91%,Belum Tervalidasi,91%,Belum Terverifikasi,91%,Tidak Lengkap,Kuning
+41130,Universitas Yarsi Pratama,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,17%,Tidak Lengkap,Hijau
+41105,Universitas Yatsi Madani,,6,6,6,10,10,10,1,3,3,3,2,2,2,0,1,1,1,6,6,6,74%,Belum Tervalidasi,74%,Belum Terverifikasi,74%,Tidak Lengkap,Merah
+41107,Universitas Yayasan Pendidikan Imam Bonjol Majalengka,,6,6,6,10,10,10,4,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,Belum Tervalidasi,80%,Belum Terverifikasi,80%,Tidak Lengkap,Merah
+41099,Universitas Yuppentek Indonesia,,6,6,6,10,10,10,1,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,Sudah Tervalidasi,100%,Sudah Terverifikasi,100%,Sudah Unggah,Merah
+44124,Akademi Keuangan dan Bisnis Indonesia Internasional,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+48890,Sekolah Tinggi Ilmu Ekonomi Yayasan Pengembangan Bisnis Indonesia,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+41128,Universitas Bandung,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+041500,Universitas Bhakti Asih Tangerang,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
+041501,Universitas Islam Dr Khez Muttaqien,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,Tidak Ada,0%,Tidak Ada,0%,Tidak Ada,Merah
