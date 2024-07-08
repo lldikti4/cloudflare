@@ -1,0 +1,441 @@
+KODEPT,PT,KEBIJAKAN_UNGGAH,KEBIJAKAN_VERIFIED,KEBIJAKAN_VALID,STANDAR_INSTITUSI_UNGGAH,STANDAR_INSTITUSI_VERIFIED,STANDAR_INSTITUSI_VALID,JML_STDLAIN_VALID,AMI_UNGGAH,AMI_VERIFIED,AMI_VALID,EVALUASI_LAIN_UNGGAH,EVALUASI_LAIN_VERIFIED,EVALUASI_LAIN_VALID,JML_EVAL_LAIN_VALID,PENGENDALIAN_UNGGAH,PENGENDALIAN_VERIFIED,PENGENDALIAN_VALID,PENINGKATAN_UNGGAH,PENINGKATAN_VERIFIED,PENINGKATAN_VALID,BOBOT VALID (%),BOBOT VERIFIKASI (%),BOBOT UNGGAH (%),Klaster
+44228,Akademi Kebidanan Bandung,6,6,6,10,10,10,5,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+44093,Akademi Pariwisata Nasional Indonesia Bandung,6,6,6,10,10,10,6,3,3,3,3,3,3,0,6,6,6,6,6,6,89%,89%,89%,Hijau
+42002,Institut Teknologi Nasional Bandung,6,6,6,10,10,10,1,3,3,3,2,2,2,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+42027,Institut Teknologi Petroleum Balongan,6,6,6,10,10,10,5,3,3,3,4,4,4,1,3,3,3,6,6,6,80%,80%,80%,Kuning
+42005,Institut Teknologi Sains Bandung,6,6,6,10,10,10,7,3,0,0,4,4,4,0,7,7,7,6,6,6,83%,83%,91%,Hijau
+45052,Politeknik Lembaga Pendidikan dan Pengembangan Profesi Indonesia,6,6,6,10,10,10,0,3,3,3,4,0,0,1,10,10,10,6,6,6,100%,100%,100%,Hijau
+45027,Politeknik Piksi Ganesha,6,6,6,10,10,10,16,3,3,3,4,4,4,6,8,8,8,6,6,6,94%,94%,94%,Hijau
+43191,Sekolah Tinggi Farmasi Indonesia,6,6,6,10,10,10,7,3,3,3,1,0,0,0,8,8,8,6,6,6,94%,94%,94%,Hijau
+43022,Sekolah Tinggi Ilmu Ekonomi Ekuitas,6,6,6,10,10,10,6,3,3,3,4,2,2,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+43128,Sekolah Tinggi Ilmu Ekonomi Gema Widya Bangsa,6,6,6,10,10,10,0,3,3,3,1,0,0,1,10,10,10,6,6,6,100%,100%,100%,Hijau
+43089,Sekolah Tinggi Ilmu Ekonomi Mulia Pratama,6,6,6,10,10,10,0,3,3,3,3,3,3,6,10,10,10,6,1,1,86%,86%,100%,Hijau
+43074,Sekolah Tinggi Ilmu Ekonomi Yasa Anggana,6,6,6,10,10,10,5,3,3,3,4,0,0,0,9,9,9,6,6,6,97%,97%,97%,Hijau
+43231,Sekolah Tinggi Ilmu Kesehatan Banten,6,6,6,10,10,10,3,3,3,3,1,1,1,0,9,9,7,6,6,6,91%,97%,97%,Hijau
+43284,Sekolah Tinggi Ilmu Kesehatan Budhi Luhur Cimahi,6,6,6,10,10,10,8,3,3,3,4,0,0,0,9,9,9,6,6,6,97%,97%,97%,Hijau
+43220,Sekolah Tinggi Ilmu Kesehatan Respati,6,6,5,10,10,10,1,3,3,3,1,1,1,0,8,8,8,6,6,6,91%,94%,94%,Hijau
+43386,Sekolah Tinggi Ilmu Kesehatan RS Dustira,6,6,6,10,10,10,19,3,3,3,1,0,0,0,9,9,9,6,6,6,97%,97%,97%,Hijau
+43207,Sekolah Tinggi Ilmu Manajemen Budi Bakti,6,6,6,10,10,10,2,3,3,3,2,2,2,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41134,Universitas Teknologi Bandung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+43290,Sekolah Tinggi Teknologi Duta Bangsa,6,6,6,10,10,10,1,3,3,3,4,4,4,0,8,8,8,6,6,6,94%,94%,94%,Hijau
+43218,Sekolah Tinggi Teknologi Fatahillah Cilegon,6,6,6,10,10,10,3,3,3,3,2,2,2,0,5,5,5,6,6,6,86%,86%,86%,Hijau
+43234,Sekolah Tinggi Teknologi Ilmu Komputer (STTIKOM) Insan Unggul,6,6,6,10,10,10,0,3,3,3,4,3,3,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+43132,Sekolah Tinggi Teknologi Industri dan Farmasi Bogor,6,6,6,10,10,10,1,3,3,3,4,2,2,1,10,10,8,6,6,4,89%,100%,100%,Hijau
+43040,Sekolah Tinggi Teknologi Mandala,6,6,6,10,10,10,7,3,3,3,4,4,4,0,5,5,5,6,6,6,86%,86%,86%,Hijau
+43167,Sekolah Tinggi Teknologi Wastukancana,6,6,6,9,9,9,1,3,3,3,2,2,2,0,8,8,8,6,6,6,91%,91%,91%,Hijau
+43306,STIE Pasim Sukabumi,6,6,6,10,10,10,27,3,3,3,3,3,3,5,9,9,9,6,6,6,97%,97%,97%,Hijau
+43356,STIKES Muhammadiyah Cirebon,6,6,6,10,10,10,2,3,3,3,4,4,4,0,10,10,10,6,6,5,97%,100%,100%,Hijau
+43348,STIKES Prima Indonesia,6,6,6,9,9,9,1,3,0,0,4,0,0,1,10,10,10,6,6,6,89%,89%,97%,Hijau
+43027,STMIK Mardira Indonesia,6,6,6,10,10,10,3,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+43104,STMIK Tulus Cendekia,6,6,6,10,10,10,0,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41087,Universitas Aisyiyah Bandung,6,6,6,10,10,10,4,3,3,3,4,4,4,0,6,6,6,6,6,6,89%,89%,89%,Hijau
+41068,Universitas Bhakti Kencana,6,6,6,10,10,10,0,3,3,3,4,4,4,0,8,8,8,6,6,6,94%,94%,94%,Hijau
+41074,Universitas Bina Insani,6,6,6,10,10,10,3,3,3,3,4,4,4,2,7,7,7,6,6,6,91%,91%,91%,Hijau
+41019,Universitas Djuanda,6,6,6,10,10,10,2,3,3,3,3,3,3,2,10,10,10,6,6,6,100%,100%,100%,Hijau
+41023,Universitas Galuh,6,6,6,10,10,10,11,3,3,3,3,3,3,0,10,10,9,6,6,6,97%,100%,100%,Hijau
+41066,Universitas Halim sanusi,6,6,6,10,10,10,2,3,3,3,4,4,4,0,5,5,5,6,6,6,86%,86%,86%,Hijau
+41084,Universitas Insan Cendekia Mandiri,6,6,6,8,8,8,5,3,3,3,3,2,2,0,10,10,10,6,6,6,94%,94%,94%,Hijau
+41106,Universitas Internasional Jakarta,6,6,6,10,10,10,7,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41002,Universitas Islam Bandung,6,6,6,10,10,10,1,3,0,0,2,2,2,1,9,9,9,6,6,6,89%,89%,97%,Hijau
+41006,Universitas Katolik Parahyangan,6,6,6,10,10,10,6,3,3,3,3,2,2,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41102,Universitas Koperasi Indonesia,6,4,3,10,10,10,2,3,3,3,3,1,1,1,10,10,10,6,6,3,83%,94%,100%,Hijau
+41007,Universitas Kristen Maranatha,6,6,6,10,10,10,4,3,0,0,4,0,0,1,10,10,10,6,6,6,91%,91%,100%,Hijau
+41038,Universitas Kuningan,6,6,6,10,10,10,6,3,3,2,4,4,4,0,10,10,10,6,6,6,97%,100%,100%,Hijau
+41043,Universitas Majalengka,6,6,6,10,10,10,6,3,3,3,1,1,1,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41064,Universitas Muhammadiyah Bandung,6,6,6,10,10,10,1,3,3,3,2,1,1,0,8,8,8,6,6,6,94%,94%,94%,Hijau
+41029,Universitas Muhammadiyah Cirebon,6,6,6,10,10,10,1,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41061,Universitas Muhammadiyah Tasikmalaya,6,6,6,10,10,10,5,3,3,3,0,0,0,1,10,10,10,6,6,6,100%,100%,100%,Hijau
+41031,Universitas Nasional Pasim,6,6,6,10,10,10,7,3,3,3,4,4,1,3,8,8,8,6,6,6,94%,94%,94%,Hijau
+41067,Universitas Nusa Putra,6,5,5,10,10,10,36,3,3,3,3,3,3,2,10,10,10,6,6,6,97%,97%,100%,Hijau
+41004,Universitas Pakuan,6,6,6,10,10,10,15,3,3,3,4,4,4,1,10,10,5,6,6,6,86%,100%,100%,Hijau
+41033,Universitas Pamulang,6,6,6,10,10,10,5,3,3,3,2,2,2,0,6,6,6,6,6,6,89%,89%,89%,Hijau
+41078,Universitas Panca Sakti Bekasi,6,6,6,10,10,10,5,3,1,1,4,4,3,0,10,10,10,6,6,6,94%,94%,100%,Hijau
+41008,Universitas Pasundan,6,6,6,10,10,10,61,3,3,3,4,4,4,6,10,10,10,6,6,6,100%,100%,100%,Hijau
+41053,Universitas Pembangunan Jaya,6,6,6,10,10,10,0,3,3,3,4,4,4,0,9,9,9,6,6,6,97%,97%,97%,Hijau
+41035,Universitas Putra Indonesia,6,6,6,10,10,10,7,3,3,3,0,0,0,0,9,9,9,6,6,6,97%,97%,97%,Hijau
+41009,Universitas Swadaya Gunung Jati,6,6,6,10,10,10,1,3,3,3,1,1,1,0,6,6,6,6,6,6,89%,89%,89%,Hijau
+41111,Universitas Teknologi Digital,6,6,6,10,10,10,1,3,3,3,2,0,0,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+41057,Universitas Telkom,6,6,6,10,10,10,7,3,3,3,4,4,4,5,10,10,10,6,6,6,100%,100%,100%,Hijau
+41022,Universitas Winaya Mukti,6,6,6,10,10,10,7,3,2,2,4,2,2,0,10,7,7,6,6,6,89%,89%,100%,Hijau
+41099,Universitas Yuppentek Indonesia,6,6,6,10,10,10,1,3,3,3,0,0,0,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+44238,Akademi Farmasi YPF,6,6,6,10,10,10,0,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+44072,Akademi Tata Boga Bandung,6,6,6,10,10,10,1,3,3,3,4,4,0,1,6,6,6,6,6,6,89%,89%,89%,Hijau
+42013,Institut Pendidikan Indonesia Garut,6,6,6,10,10,10,5,3,3,3,2,2,2,7,4,4,4,6,6,6,83%,83%,83%,Hijau
+42028,Institut Teknologi dan Kesehatan Mahardika,6,6,6,10,10,10,0,3,3,3,3,3,2,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+45042,Politeknik Enjinering Indorama,6,6,6,10,10,10,0,3,3,3,1,0,0,0,9,9,9,6,5,5,94%,94%,97%,Hijau
+43359,Sekolah Tinggi Ilmu Komputer El Rahma,6,6,6,10,10,10,2,3,3,3,4,0,0,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+43217,Sekolah Tinggi Teknik Karawang,6,6,6,10,10,10,1,3,3,3,0,0,0,1,5,5,5,6,6,6,86%,86%,86%,Hijau
+43103,STISIP Widyapuri Mandiri,6,6,6,10,10,10,2,3,3,3,4,0,0,0,10,10,10,6,0,0,83%,83%,100%,Hijau
+41011,Universitas Advent Indonesia,6,6,6,10,10,10,3,3,3,3,0,0,0,0,6,6,6,6,6,5,86%,89%,89%,Hijau
+41024,Universitas Garut,6,6,6,10,10,10,12,3,3,3,1,0,0,1,4,4,4,6,6,6,83%,83%,83%,Hijau
+41018,Universitas Islam 45,6,6,6,10,10,10,7,3,3,3,0,0,0,3,5,5,5,6,6,6,86%,86%,86%,Hijau
+41104,Universitas Logistik dan Bisnis Internasional,6,6,6,10,10,10,1,3,3,3,3,0,0,0,10,10,10,6,0,0,83%,83%,100%,Hijau
+41025,Universitas Nurtanio,6,6,6,10,10,10,1,3,3,3,3,0,0,0,10,10,10,6,6,0,83%,100%,100%,Hijau
+41041,Universitas Presiden,6,6,6,10,10,10,1,3,3,3,4,4,3,0,10,9,9,6,5,5,94%,94%,100%,Hijau
+41100,Universitas Sali Al-Aitaam,6,6,6,9,9,9,1,3,3,3,4,0,0,0,5,5,5,6,6,6,83%,83%,83%,Hijau
+41044,Universitas Sangga Buana,6,6,6,10,10,10,6,3,3,3,1,1,1,0,5,5,5,6,6,6,86%,86%,86%,Hijau
+41122,Universitas Utpadaka Swastika,6,6,6,10,10,10,4,3,3,3,2,2,2,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+42022,Institut Digital Ekonomi LPKIA,6,6,6,10,10,10,0,3,3,3,4,4,4,0,4,4,4,6,6,6,83%,83%,83%,Hijau
+45043,Politeknik Meta Industri Cikarang,6,6,6,9,9,9,6,3,3,2,4,0,0,2,9,9,9,6,6,5,89%,94%,94%,Hijau
+43390,Sekolah Tinggi Ilmu Ekonomi Triguna,6,6,6,10,10,10,0,3,3,3,3,0,0,0,5,5,5,6,6,6,86%,86%,86%,Hijau
+43377,Sekolah Tinggi Manajemen Informatika dan Komputer Al Muslim,6,6,6,10,10,10,4,3,3,3,3,3,3,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+43323,STKIP Muhammadiyah Kuningan,6,6,6,9,9,9,1,3,3,3,3,3,3,0,10,10,10,6,6,6,97%,97%,97%,Hijau
+41005,Universitas Islam Syekh-Yusuf,6,6,6,10,10,10,2,3,3,3,4,0,0,0,4,4,4,6,6,6,83%,83%,83%,Hijau
+43196,Sekolah Tinggi Bahasa Asing Technocrat,6,6,6,10,10,10,4,3,3,3,4,4,4,1,3,3,3,6,6,6,80%,80%,80%,Kuning
+43213,Sekolah Tinggi Ilmu Kesehatan Indramayu,6,6,6,10,10,10,1,3,3,3,4,4,4,1,3,3,3,6,6,6,80%,80%,80%,Kuning
+43326,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Bina Mutiara,6,6,6,10,10,10,4,3,3,3,4,4,4,5,3,3,3,6,6,6,80%,80%,80%,Kuning
+43319,Sekolah Tinggi Pariwisata Bogor,6,6,6,10,10,10,10,3,3,3,4,4,4,2,4,0,0,6,6,6,71%,71%,83%,Kuning
+41037,Universitas Al-ghifari,6,6,6,10,10,10,1,3,3,3,4,4,4,3,3,3,3,6,6,6,80%,80%,80%,Kuning
+41021,Universitas Jenderal Achmad Yani,6,6,6,10,10,10,0,3,3,3,4,4,4,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+41027,Universitas Komputer Indonesia,6,2,2,10,10,10,10,3,2,2,2,1,1,4,8,8,8,6,6,6,80%,80%,94%,Kuning
+41071,Universitas Raharja,6,6,6,10,7,7,8,3,1,1,4,4,4,0,9,9,8,6,6,6,80%,83%,97%,Kuning
+44239,Akademi Farmasi Bumi Siliwangi,6,6,6,9,9,9,1,3,3,3,2,2,2,0,2,2,2,6,1,1,60%,60%,74%,Kuning
+44196,Akademi Kebidanan Prima Husada,6,6,6,10,10,10,1,3,1,1,1,0,0,1,3,3,3,6,6,6,74%,74%,80%,Kuning
+44160,Akademi Keperawatan Buntet Pesantren,6,6,6,10,10,10,0,3,3,3,4,3,3,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+44143,Akademi Keperawatan Kebonjati,6,5,0,10,2,0,1,3,0,0,0,0,0,0,4,3,0,6,0,0,0%,29%,83%,Merah
+44230,Akademi Keperawatan RS Efarina,6,6,6,10,10,6,1,3,3,2,0,0,0,0,3,3,3,6,6,4,60%,80%,80%,Kuning
+44052,Akademi Maritim Cirebon,6,6,6,10,10,10,2,2,2,2,4,3,3,1,4,4,4,6,5,5,77%,77%,80%,Kuning
+44071,Akademi Sekretari Dan Manajemen Ariyanti,6,6,6,9,9,9,7,3,3,0,4,4,3,0,5,5,5,6,6,4,69%,83%,83%,Kuning
+44108,AMIK Citra Buana Indonesia,6,6,6,8,8,8,1,3,3,3,4,1,1,1,3,3,3,5,5,5,71%,71%,71%,Kuning
+44009,AMIK Wira Nusantara,6,6,6,8,8,8,1,3,3,3,0,0,0,0,1,1,1,6,6,6,69%,69%,69%,Kuning
+42010,Institut Bisnis Muhammadiyah Bekasi,6,6,0,10,10,9,8,3,3,2,3,3,2,0,10,10,10,6,6,0,60%,100%,100%,Kuning
+42012,Institut Keguruan dan Ilmu Pendidikan Siliwangi,6,6,6,10,10,10,12,3,2,2,4,2,2,57,3,3,0,6,6,6,69%,77%,80%,Kuning
+42017,Institut Kesehatan Rajawali,6,6,6,9,8,8,0,3,3,3,0,0,0,0,9,6,6,6,5,5,80%,80%,94%,Kuning
+42026,Institut Teknologi dan Bisnis Banten,6,6,6,10,10,10,0,3,3,3,0,0,0,1,3,3,3,6,6,5,77%,80%,80%,Kuning
+42020,Institut Teknologi Garut,6,6,6,10,10,10,15,3,0,0,1,0,0,0,2,0,0,6,6,6,63%,63%,77%,Kuning
+42006,Institut Teknologi Harapan Bangsa,6,6,6,6,6,6,3,3,3,3,4,3,3,0,2,2,0,6,6,6,60%,66%,66%,Kuning
+42015,Institut Teknologi Tangerang Selatan,6,6,6,10,10,10,0,3,3,3,4,4,1,0,1,1,0,6,6,2,60%,74%,74%,Kuning
+45030,Politeknik Al-Islam Bandung,6,6,6,6,6,6,5,3,3,3,3,0,0,1,6,6,6,6,6,1,63%,77%,77%,Kuning
+45046,Politeknik Bhakti Asih Purwakarta,6,6,6,10,10,10,0,3,3,3,4,0,0,0,10,10,2,6,3,3,69%,91%,100%,Kuning
+45053,Politeknik Bina Madani,6,6,6,4,4,4,0,3,3,3,0,0,0,0,6,6,6,6,5,5,69%,69%,71%,Kuning
+45033,Politeknik Kesehatan Bhakti Pertiwi Husada,6,6,6,10,10,10,1,3,3,3,2,1,1,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+45051,Politeknik Kesehatan Genesis Medicare,6,6,6,9,9,9,2,3,3,3,3,3,3,0,3,3,3,6,6,6,77%,77%,77%,Kuning
+45010,Politeknik Piksi Input Serang,6,6,6,5,5,5,0,3,3,3,4,4,3,0,5,5,5,6,6,6,71%,71%,71%,Kuning
+45012,Politeknik Tri Mitra Karya Mandiri,6,6,6,10,10,10,0,3,3,3,0,0,0,0,1,1,1,6,5,5,71%,71%,74%,Kuning
+45037,Politeknik Triguna Tasikmalaya,6,6,6,10,10,10,0,3,3,3,0,0,0,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+45041,Politeknik Tunas Pemuda,6,6,6,10,10,10,2,3,3,3,3,1,1,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43131,Sekolah Tinggi Bahasa Asing JIA,6,6,6,8,8,8,0,3,3,3,0,0,0,0,3,3,3,6,6,0,57%,74%,74%,Kuning
+43035,Sekolah Tinggi Bahasa Asing Yapari,6,6,6,10,10,10,7,3,3,3,3,2,2,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43079,Sekolah Tinggi Desain Indonesia Bandung,6,6,6,10,10,10,0,3,3,3,4,4,2,0,0,0,0,2,2,2,60%,60%,60%,Kuning
+43003,Sekolah Tinggi Hukum Pasundan,6,6,5,9,9,9,6,3,1,0,4,4,0,0,5,5,5,6,6,6,71%,77%,83%,Kuning
+43227,Sekolah Tinggi Ilmu Ekonomi BII Bekasi,6,6,6,10,10,10,0,3,3,3,4,4,1,2,10,0,0,6,6,6,71%,71%,100%,Kuning
+43349,Sekolah Tinggi Ilmu Ekonomi Ekadharma Indonesia,6,6,6,10,10,10,0,3,3,3,3,3,3,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43296,Sekolah Tinggi Ilmu Ekonomi Harapan Bangsa,6,6,6,6,5,5,3,3,3,3,4,2,2,0,2,2,2,6,6,6,63%,63%,66%,Kuning
+43088,Sekolah Tinggi Ilmu Ekonomi Miftahul Huda,6,6,6,10,10,10,2,3,3,3,0,0,0,0,2,2,2,6,6,6,77%,77%,77%,Kuning
+43043,Sekolah Tinggi Ilmu Ekonomi Pasundan,6,6,6,10,10,10,6,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43096,Sekolah Tinggi Ilmu Ekonomi Tri Bhakti,6,6,6,9,9,9,0,3,3,3,4,4,4,0,0,0,0,0,0,0,51%,51%,51%,Kuning
+43114,Sekolah Tinggi Ilmu Ekonomi Yasmi,6,6,5,7,7,4,0,3,3,2,4,4,4,0,4,4,3,6,6,6,57%,74%,74%,Kuning
+43372,Sekolah Tinggi Ilmu Kesehatan Ahmad Dahlan Cirebon,6,6,6,6,6,6,4,3,0,0,3,0,0,0,6,6,6,6,6,6,69%,69%,77%,Kuning
+43365,Sekolah Tinggi Ilmu Kesehatan Bogor Husada,6,6,6,7,7,7,1,3,0,0,0,0,0,0,6,6,6,6,2,2,60%,60%,80%,Kuning
+43382,Sekolah Tinggi Ilmu Kesehatan Cianjur,6,6,5,10,10,10,0,3,3,1,0,0,0,0,7,7,7,6,6,5,80%,91%,91%,Kuning
+43178,Sekolah Tinggi Ilmu Kesehatan Cirebon,6,6,6,10,10,10,1,3,3,2,4,4,2,0,1,1,0,6,6,6,69%,74%,74%,Kuning
+43212,Sekolah Tinggi Ilmu Kesehatan Dharma Husada,6,6,6,10,10,10,4,3,2,2,1,1,1,1,7,6,0,6,5,5,66%,83%,91%,Kuning
+43288,Sekolah Tinggi Ilmu Kesehatan Kuningan,6,6,6,10,7,7,1,3,1,1,4,3,3,7,7,1,1,6,6,6,60%,60%,91%,Kuning
+43371,Sekolah Tinggi Ilmu Kesehatan Pelita Ilmu Depok,6,6,6,9,9,9,2,3,3,3,0,0,0,0,6,6,6,6,6,6,86%,86%,86%,Hijau
+43374,Sekolah Tinggi Ilmu Kesehatan Permata Nusantara,6,6,6,10,10,10,17,3,3,3,4,4,3,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43358,Sekolah Tinggi Ilmu Kesehatan Salsabila Serang,6,1,1,10,8,8,1,3,0,0,4,0,0,0,10,10,10,6,6,6,71%,71%,100%,Kuning
+43286,Sekolah Tinggi Ilmu Kesehatan Sukabumi,6,6,6,5,5,5,3,3,3,3,4,0,0,3,5,5,5,6,2,2,60%,60%,71%,Kuning
+43282,Sekolah Tinggi Ilmu Kesehatan Widya Dharma Husada Tangerang,6,6,6,10,10,10,7,3,3,3,4,4,4,0,10,10,10,6,6,6,100%,100%,100%,Hijau
+43380,Sekolah Tinggi Manajemen Informatika dan Komputer Al-Fath,6,6,6,10,10,10,0,3,3,3,0,0,0,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43044,Sekolah Tinggi Teknologi Bina Tunggal,6,6,6,4,4,4,0,3,3,3,4,4,1,0,1,1,1,6,6,6,57%,57%,57%,Kuning
+43100,Sekolah Tinggi Teknologi Cipasung,6,6,6,10,10,10,1,3,3,3,1,1,1,0,3,3,0,6,6,6,71%,80%,80%,Kuning
+43050,Sekolah Tinggi Teknologi Cirebon,6,6,6,9,8,8,9,3,3,3,2,2,2,0,1,1,1,6,1,1,54%,54%,71%,Kuning
+43192,Sekolah Tinggi Teknologi Informatika Sony Sugema,6,6,6,10,10,10,0,3,3,3,1,1,1,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+43253,Sekolah Tinggi Teknologi Muhammadiyah Cileungsi,6,6,6,10,10,10,0,3,1,1,3,3,3,0,3,3,3,6,6,6,74%,74%,80%,Kuning
+43262,Sekolah Tinggi Teknologi Pratama Adi,6,6,6,10,10,10,0,3,3,3,4,4,4,0,1,0,0,6,6,6,71%,71%,74%,Kuning
+43269,STIE Dharma Negara,6,6,6,10,10,10,2,3,3,3,0,0,0,0,9,9,9,6,6,6,97%,97%,97%,Hijau
+43361,STIKES Muhammadiyah Kuningan,6,4,4,9,9,9,2,3,3,3,2,0,0,4,9,9,9,0,0,0,71%,71%,77%,Kuning
+43341,STISIP Trimasda Cilegon,6,6,6,10,10,10,1,3,3,3,2,0,0,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+43137,STMIK Amik Bandung,6,5,5,5,5,5,0,3,3,3,1,0,0,1,8,8,8,6,6,6,77%,77%,80%,Kuning
+43063,STMIK Bandung,6,6,6,10,10,10,0,3,3,3,3,3,2,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+43185,STMIK IKMI Cirebon,6,6,6,10,10,10,0,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43232,STMIK Mercusuar,6,6,6,8,8,8,0,2,2,2,1,1,1,0,0,0,0,6,6,6,63%,63%,63%,Kuning
+43139,STMIK Rosma,6,6,6,8,8,8,4,3,3,3,4,0,0,0,5,5,5,6,0,0,63%,63%,80%,Kuning
+41077,Universitas Adhirajasa Reswara Sanjaya,6,6,6,9,9,9,6,3,3,3,1,1,1,0,9,9,9,6,6,5,91%,94%,94%,Hijau
+41098,Universitas Bakti Tunas Husada,6,6,6,5,5,5,2,3,3,3,4,3,3,0,3,3,3,6,6,6,66%,66%,66%,Kuning
+41055,Universitas Banten Jaya,6,6,6,10,10,10,14,3,3,3,4,4,3,0,2,2,2,6,6,6,77%,77%,77%,Kuning
+41081,Universitas Binaniaga Indonesia,6,6,6,10,9,9,0,3,3,3,4,4,4,0,8,4,4,6,6,6,80%,80%,94%,Kuning
+41062,Universitas Buana Perjuangan Karawang,6,6,2,10,10,7,9,3,3,3,1,0,0,10,10,10,10,6,6,4,74%,100%,100%,Kuning
+41060,Universitas Buddhi Dharma,6,6,6,5,5,5,5,3,3,3,4,4,4,2,4,4,4,6,6,6,69%,69%,69%,Kuning
+41086,Universitas Cendekia Abditama,6,6,6,10,10,10,0,3,3,3,0,0,0,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41089,Universitas Cipasung Tasikmalaya,6,6,6,10,10,10,1,3,3,3,4,1,1,1,1,1,1,6,6,6,74%,74%,74%,Kuning
+41082,Universitas Global Jakarta,6,6,6,10,8,8,2,3,3,3,4,3,3,1,5,5,5,6,6,6,80%,80%,86%,Kuning
+41001,Universitas Ibn Khaldun Bogor,6,5,5,10,8,8,2,3,3,3,4,1,1,0,9,1,0,6,6,6,63%,66%,97%,Kuning
+41093,Universitas Indonesia Membangun,6,6,6,10,10,10,0,3,3,3,2,1,1,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+41110,Universitas Insan Pembangunan Indonesia,6,6,6,10,10,10,3,3,3,3,3,0,0,1,10,3,3,6,6,6,80%,80%,100%,Kuning
+41003,Universitas Islam Nusantara,6,6,6,10,10,10,0,3,0,0,4,2,2,0,7,7,7,6,1,1,69%,69%,91%,Kuning
+41015,Universitas Langlang Buana,6,6,6,10,10,10,0,3,0,0,3,3,3,0,3,3,3,6,0,0,54%,54%,80%,Kuning
+41120,Universitas Linggabuana PGRI Sukabumi,6,6,6,10,5,5,3,3,3,3,0,0,0,0,1,1,1,5,5,5,57%,57%,71%,Kuning
+41058,Universitas Lintas Internasional Indonesia,6,5,5,9,9,9,2,3,3,3,3,3,0,3,4,4,3,6,5,5,71%,74%,80%,Kuning
+41090,Universitas Mandiri,6,6,6,10,4,4,1,3,0,0,4,0,0,0,9,9,9,6,2,2,60%,60%,97%,Kuning
+41073,Universitas Masoem,6,6,6,8,7,7,5,3,2,2,4,0,0,0,1,1,1,6,6,6,63%,63%,69%,Kuning
+41094,Universitas Medika Suherman,6,6,6,10,10,10,4,3,3,3,3,3,3,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+41040,Universitas Muhammadiyah Sukabumi,6,6,6,9,9,9,3,3,3,3,2,1,1,0,9,9,8,0,0,0,74%,77%,77%,Kuning
+41051,Universitas Muhammadiyah Tangerang,6,6,6,7,7,7,5,3,3,3,3,3,3,0,1,1,1,6,6,6,66%,66%,66%,Kuning
+41054,Universitas Nahdlatul Ulama Cirebon,6,6,6,10,8,8,0,3,2,2,3,1,1,0,1,1,1,6,6,6,66%,66%,74%,Kuning
+41072,Universitas Pelita Bangsa,6,5,5,7,7,7,12,3,3,3,3,3,2,1,10,10,0,6,6,6,60%,89%,91%,Kuning
+41063,Universitas Perjuangan Tasikmalaya,6,6,6,10,7,7,3,3,3,3,4,4,4,1,1,1,1,6,6,6,66%,66%,74%,Kuning
+41083,Universitas Persatuan Islam,6,6,6,10,10,10,0,3,3,3,4,4,4,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41108,Universitas Pertiwi,6,6,6,10,10,10,0,3,3,3,4,0,0,0,5,3,3,6,1,1,66%,66%,86%,Kuning
+41123,Universitas Santo Borromeus,6,6,6,8,7,7,5,3,3,3,3,2,2,0,3,3,3,6,6,6,71%,71%,74%,Kuning
+41049,Universitas Serang Raya,6,5,5,8,8,8,0,0,0,0,3,3,3,0,6,6,5,6,5,5,66%,69%,74%,Kuning
+41050,Universitas Teknologi Nusantara,6,6,6,10,10,10,1,3,3,3,4,0,0,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41047,Universitas Wanita Internasional,6,6,6,9,9,9,0,3,3,3,0,0,0,0,1,1,1,6,6,6,71%,71%,71%,Kuning
+41034,Universitas Widyatama,6,6,6,10,10,10,2,3,3,3,4,4,4,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41105,Universitas Yatsi Madani,6,6,6,10,10,10,1,3,3,3,2,2,2,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41107,Universitas Yayasan Pendidikan Imam Bonjol Majalengka,6,6,6,10,10,10,4,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+46002,Akademi Komunitas Toyota Indonesia,6,6,6,6,6,6,1,3,3,3,4,4,0,0,4,4,0,6,6,6,60%,71%,71%,Kuning
+44236,Akademi Pariwisata (AKPAR) Bina Sarana Informatika Bandung,6,6,6,9,3,3,6,3,1,1,1,1,0,0,8,8,8,6,0,0,51%,51%,91%,Kuning
+44111,Akademi Pariwisata NHI Bandung,6,5,5,6,6,5,4,3,3,3,2,1,0,9,5,5,5,6,6,6,69%,71%,74%,Kuning
+44049,Akademi Sekretaris Dan Manajemen Kencana Bandung,6,6,6,10,10,10,2,3,3,3,0,0,0,0,10,10,6,6,0,0,71%,83%,100%,Kuning
+42024,Institut Teknologi Al-Muhajirin,6,6,6,10,10,10,1,3,3,3,4,4,4,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+45034,Politeknik Kesehatan TNI-AU Ciumbuleuit,6,6,6,5,5,5,0,3,3,3,3,3,3,0,3,3,3,6,5,5,63%,63%,66%,Kuning
+45044,Politeknik Pariwisata Prima Internasional,6,5,5,10,10,10,0,3,2,2,1,1,1,0,3,3,3,6,3,3,66%,66%,80%,Kuning
+45016,Politeknik TEDC,6,6,6,10,10,10,1,3,3,3,3,3,3,2,3,3,3,6,6,6,80%,80%,80%,Kuning
+45049,Politeknik Tiara Bunda,6,6,6,10,10,10,4,3,3,3,2,2,2,0,3,3,3,6,6,6,80%,80%,80%,Kuning
+43194,Sekolah Tinggi Ilmu Ekonomi Ppi,6,6,6,10,10,10,0,3,3,3,0,0,0,1,2,1,0,6,0,0,54%,57%,77%,Kuning
+43389,Sekolah Tinggi Ilmu Kesehatan Bhakti Husada Cikarang,6,6,6,9,9,9,1,3,3,3,0,0,0,0,1,1,1,6,6,6,71%,71%,71%,Kuning
+43078,Sekolah Tinggi Pariwisata Ars Internasional,6,6,6,9,3,3,6,3,1,1,1,0,0,0,8,8,3,6,5,5,51%,66%,91%,Kuning
+43351,STIKES Raflesia,6,5,5,10,6,6,1,3,3,3,1,0,0,0,7,7,7,6,5,5,74%,74%,91%,Kuning
+43360,STKIP Sinar Cendekia,6,6,6,10,10,10,6,3,3,1,1,1,1,4,9,9,9,1,1,1,77%,83%,83%,Kuning
+41075,Universitas Catur Insan Cendekia,6,6,6,8,8,8,2,3,3,3,4,0,0,1,4,4,4,6,6,5,74%,77%,77%,Kuning
+41070,Universitas Faletehan,6,6,6,10,10,10,0,3,3,3,2,2,2,0,10,0,0,6,1,1,57%,57%,100%,Kuning
+41046,Universitas Informatika Dan Bisnis Indonesia,6,6,6,10,10,10,1,3,3,3,4,4,4,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41026,Universitas Swiss German,6,6,6,10,9,9,5,3,3,3,1,0,0,0,9,1,0,6,0,0,51%,54%,97%,Kuning
+44134,Akademi Kebidanan Karya Bunda Husada,0,0,1,0,0,0,16,0,0,3,0,0,3,2,0,0,10,0,0,0,40%,0%,0%,Merah
+41014,Universitas Wiralodra,6,6,6,10,10,10,2,3,3,3,1,1,0,1,7,7,7,6,6,6,91%,91%,91%,Hijau
+42016,Institut Bisnis Dan Informatika Kesatuan,6,6,6,4,4,4,0,3,0,0,4,4,3,0,1,1,1,6,6,6,49%,49%,57%,Merah
+43315,Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat,6,0,0,10,10,10,0,3,0,0,4,1,1,1,1,1,1,6,6,6,49%,49%,74%,Merah
+43333,STKIP Mutiara Banten,6,6,0,8,8,0,3,3,3,2,4,0,0,0,3,3,0,6,6,0,6%,74%,74%,Merah
+43340,STKIP PANCAKARYA,6,6,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0%,63%,63%,Merah
+44002,Akademi Akuntansi Bandung,6,5,1,10,10,8,0,3,1,1,4,0,0,0,10,0,0,6,0,0,29%,46%,100%,Merah
+44132,Akademi Analis Kesehatan An Nasher Cirebon,6,6,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,40%,40%,Merah
+44133,Akademi Bahasa Asing Internasional Bandung,6,0,0,10,0,0,2,3,0,0,0,0,0,0,3,0,0,3,0,0,0%,0%,71%,Merah
+44246,Akademi Farmasi Persada Sukabumi,6,4,4,0,0,0,0,3,0,0,4,4,0,0,0,0,0,6,0,0,11%,11%,43%,Merah
+44208,Akademi Kebidanan Al-Ikhlas Cisarua,6,6,0,10,10,0,2,3,0,0,4,0,0,0,10,10,0,6,6,0,0%,91%,100%,Merah
+44188,Akademi Kebidanan Ar-Rahmah Bandung,6,6,0,8,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,40%,40%,Merah
+44129,Akademi Kebidanan Assyifa Tangerang,6,6,1,0,0,0,0,3,3,0,4,4,0,0,0,0,0,0,0,0,3%,26%,26%,Merah
+44211,Akademi Kebidanan Bakti Indonesia Bogor,6,5,5,10,2,0,0,3,0,0,0,0,0,0,10,0,0,0,0,0,14%,20%,83%,Merah
+44198,Akademi Kebidanan Bhakti Mitra Husada,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44219,Akademi Kebidanan Bina Husada Serang,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,31%,Merah
+44127,Akademi Kebidanan Bina Husada Tangerang,6,0,0,10,3,0,3,3,0,0,0,0,0,0,9,9,0,6,6,0,0%,51%,97%,Merah
+44204,Akademi Kebidanan Bunda Auni Bogor,6,0,0,9,0,0,3,3,0,0,0,0,0,0,6,0,0,0,0,0,0%,0%,69%,Merah
+44197,Akademi Kebidanan Citama Raya Depok,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44244,Akademi Kebidanan Farmako Husada Al-Muchtari Bogor,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44182,Akademi Kebidanan Gema Nusantara Bekasi,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44225,Akademi Kebidanan Graha Husada Cirebon,6,5,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,2,2,0,3%,29%,31%,Merah
+44174,Akademi Kebidanan Isma Husada Cirebon,6,6,2,10,10,9,8,2,2,2,0,0,0,0,4,4,0,6,6,1,40%,80%,80%,Merah
+44223,Akademi Kebidanan Sayid Sabiq Indramayu,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44215,Akademi Kebidanan Sentra Bina Yudistira Tangerang,6,1,1,10,6,6,7,3,2,2,4,4,0,0,3,0,0,6,0,0,26%,26%,80%,Merah
+44248,Akademi Kebidanan Ummul Quro Al-Islami Bogor,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44226,Akademi Kebidanan Wijaya Husada,6,0,0,10,0,0,3,3,0,0,3,0,0,0,2,2,0,6,0,0,0%,6%,77%,Merah
+44207,Akademi Keperawatan Al-Ikhlas Cisarua,6,0,0,10,10,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,29%,46%,Merah
+44185,Akademi Keperawatan Dharma Husada Cirebon,6,6,1,8,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26%,40%,40%,Merah
+44172,Akademi Keperawatan Yatna Yuana Lebak,6,4,3,3,3,3,1,2,2,2,0,0,0,0,0,0,0,0,0,0,23%,26%,31%,Merah
+44124,Akademi Keuangan dan Bisnis Indonesia Internasional,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+46004,Akademi Komunitas Insan Tazakka,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+46003,Akademi Komunitas Presiden,6,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,20%,Merah
+44064,Akademi Manajemen Informatika Dan Komputer Garut,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44060,Akademi Manajemen Informatika Dan Komputer Serang,6,1,1,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11%,11%,26%,Merah
+44110,Akademi Manajemen Informatika dan Komputer Wahana Mandiri,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44089,Akademi Manajemen Informatika Dan Komputer YPAT,6,6,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,6,6,5,31%,43%,43%,Merah
+44035,Akademi Maritim Suaka Bahari,6,6,1,10,10,0,0,3,3,1,0,0,0,0,1,1,0,6,6,1,9%,74%,74%,Merah
+44050,Akademi Pariwisata Bandung,6,6,5,6,6,4,0,3,3,0,0,0,0,0,0,0,0,0,0,0,26%,43%,43%,Merah
+44107,Akademi Pariwisata Citra Buana Indonesia,6,2,0,4,0,0,0,2,0,0,1,1,0,0,3,0,0,0,0,0,0%,6%,43%,Merah
+44203,Akademi Pariwisata Nusantara Tangerang,6,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17%,17%,26%,Merah
+44065,Akademi Pariwisata Siliwangi,6,6,1,10,10,0,0,3,3,0,4,4,0,0,10,10,0,6,6,0,3%,100%,100%,Merah
+44243,Akademi Pariwisata Tunas Nusantara Mandiri,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44056,Akademi Pariwisata Yasmi,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0%,34%,34%,Merah
+44051,Akademi Perdagangan Bandung,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44245,Akademi Perhotelan Tunas Indonesia,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44176,Akademi Perpajakan Maria Mediatrix,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44235,Akademi Perpajakan Padang (AKAP) Bekasi,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44187,Akademi Radiognostik Dan Radioterapi Yapenpernus,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44098,Akademi Sekretari Dan Manajemen Insulindo,6,1,1,9,3,3,0,1,1,0,2,2,2,0,3,1,1,6,0,0,14%,17%,71%,Merah
+44022,Akademi Sekretari Manajemen Taruna Bakti,6,3,3,9,0,0,5,3,2,2,4,0,0,0,3,3,3,6,0,0,23%,23%,77%,Merah
+44069,Akademi Sekretari Triguna,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44092,Akademi Teknologi Aeronautika Siliwangi,6,4,2,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,11%,46%,Merah
+44074,Akademi Teknologi Bandung,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44078,Akademi Teknologi Bogor,6,1,1,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,6%,6%,26%,Merah
+44249,Akademi Teknologi Radiologi,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44105,Akademi Telekomunikasi Bogor,6,6,1,0,0,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0,9%,23%,26%,Merah
+44126,Akademi Telekomunikasi Nusantara,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44045,AMIK Bumi Nusantara,6,5,0,10,10,0,0,3,3,0,4,0,0,1,10,10,0,6,6,0,0%,97%,100%,Merah
+44233,AMIK Mapan Tangerang,6,6,6,5,5,5,3,0,0,0,0,0,0,7,0,0,0,0,0,0,31%,31%,31%,Merah
+44123,AMIK Pakarti Luhur,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+44102,AMIK Purnama Niaga,6,4,4,10,10,10,0,3,0,0,3,0,0,0,3,0,0,6,0,0,40%,40%,80%,Merah
+44068,AMIK Sultan Agung,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,17%,17%,Merah
+41131,Deakin University,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+42030,Institut Budi Utomo Nasional,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+42029,Institut Kesehatan dan Bisnis Annisa,6,0,0,10,9,9,1,3,3,0,3,0,0,0,1,1,0,6,3,0,26%,46%,74%,Merah
+42025,Institut Kesehatan Immanuel,6,6,6,5,0,0,7,3,0,0,4,0,0,0,5,0,0,6,0,0,17%,17%,71%,Merah
+42011,Institut Manajemen Wiyata Indonesia,6,6,2,10,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,46%,46%,Merah
+42031,Institut Pangeran Dharma Kusuma,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+42032,Institut Prima Bangsa,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+42018,Institut Teknologi dan Bisnis Bina Sarana Global,6,6,6,10,6,6,2,3,1,1,4,1,1,7,3,3,3,6,0,0,46%,46%,80%,Merah
+42021,Institut Teknologi dan Bisnis Riyadlul Ulum,6,0,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9%,9%,26%,Merah
+42019,Institut Teknologi dan Bisnis Visi Nusantara Bogor,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+41129,Lancaster University,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+41103,Monash University Indonesia,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+45022,Politeknik Agroindustri,6,6,1,9,9,0,0,3,3,3,4,3,0,0,7,7,0,6,0,0,11%,71%,89%,Merah
+45050,Politeknik Bhakti Kartini,6,2,1,10,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,34%,46%,Merah
+45004,Politeknik Bina Budaya Cipta,6,5,5,10,10,10,0,3,3,2,4,4,1,0,3,3,0,0,0,0,49%,60%,63%,Merah
+45070,Politeknik Bisnis Digital Indonesia,6,4,4,10,7,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,31%,46%,Merah
+45056,Politeknik Digital Boash Indonesia,6,6,6,9,9,9,8,3,3,3,1,1,1,0,5,5,5,6,6,6,83%,83%,83%,Hijau
+45003,Politeknik Gajah Tunggal,6,1,0,10,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0,0%,3%,74%,Merah
+45036,Politeknik Geologi Dan Pertambangan Agp,6,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,3%,26%,Merah
+45019,Politeknik Gunakarya Indonesia Bekasi,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+45061,Politeknik IDN Bogor,6,6,0,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,37%,46%,Merah
+45048,Politeknik Industri ATMI,6,6,6,10,3,3,0,3,3,3,1,0,0,2,9,9,0,6,6,1,37%,77%,97%,Merah
+45066,Politeknik Istikom Bina Citra Informatika,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+45032,Politeknik Kelapa Sawit Citra Widya Edukasi,6,2,1,10,0,0,0,3,3,3,0,0,0,0,7,0,0,6,1,1,14%,17%,91%,Merah
+45065,Politeknik Kepribadian,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+45045,Politeknik Kesehatan Aisyiyah Banten,6,6,6,10,10,10,0,2,2,2,0,0,0,0,4,0,0,0,0,0,51%,51%,63%,Kuning
+45057,Politeknik Kesehatan KMC Kuningan,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+45006,Politeknik Krakatau,6,3,2,8,0,0,0,3,3,3,1,0,0,0,8,0,0,6,0,0,14%,17%,89%,Merah
+45069,Politeknik Mardira Indonesia,6,0,0,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0%,0%,46%,Merah
+45060,Politeknik Maritim Eka Utama Subang,6,6,0,10,0,0,0,3,3,2,4,4,0,0,5,5,0,6,5,0,6%,54%,86%,Merah
+45062,Politeknik Merdeka Belajar Indonesia,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,26%,Merah
+45002,Politeknik Pajajaran Insan Cinta Bangsa Bandung,6,6,6,5,5,0,0,3,2,1,1,1,1,0,4,4,0,6,0,0,20%,49%,69%,Merah
+45023,Politeknik Perdana Mandiri,6,6,0,5,5,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0%,31%,31%,Merah
+45028,Politeknik PGRI Banten,6,3,3,6,6,6,1,1,0,0,1,0,0,0,0,0,0,1,1,0,26%,29%,40%,Merah
+45018,Politeknik Praktisi Bandung,6,6,4,10,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,46%,46%,Merah
+45071,Politeknik Prasetiya Mandiri,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+45047,Politeknik Sains Seni Rekakreasi,6,5,5,10,10,0,3,0,0,0,1,1,1,1,0,0,0,0,0,0,14%,43%,46%,Merah
+45067,Politeknik Siber Cerdika Internasional,6,0,0,10,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,54%,Merah
+45020,Politeknik Sukabumi,6,6,6,0,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,0,17%,17%,43%,Merah
+45058,Politeknik Takumi,6,5,5,10,10,10,3,3,3,3,4,0,0,1,6,6,6,6,3,3,77%,77%,89%,Kuning
+45068,Politeknik Yusuf Mansur,6,1,1,10,0,0,0,3,0,0,1,0,0,0,1,0,0,6,0,0,3%,3%,74%,Merah
+45063,Politeknik Zanjabila Banten,6,6,0,7,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0%,37%,37%,Merah
+45029,Politenik Kesehatan Yapkesbi Sukabumi,6,6,6,6,4,0,14,3,3,2,3,0,0,0,2,2,0,6,6,0,23%,60%,66%,Merah
+43317,Sekolah Tinggi Analis Bakti Asih,6,2,2,10,2,2,1,3,3,3,0,0,0,0,0,0,0,0,0,0,20%,20%,54%,Merah
+43259,Sekolah Tinggi Analis Kimia Cilegon,6,6,1,6,6,6,1,3,3,3,3,1,1,0,6,6,6,6,6,1,49%,77%,77%,Merah
+43272,Sekolah Tinggi Bahasa Asing Bina Dinamika Cianjur,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43246,Sekolah Tinggi Bahasa Asing Cipto Hadi Pranoto,6,6,6,9,8,5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,40%,43%,Merah
+43312,Sekolah Tinggi Bahasa Asing IEC Bekasi,0,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31%,0%,0%,Merah
+43355,Sekolah Tinggi Farmasi Muhammadiyah Cirebon,6,0,0,6,6,6,1,3,0,0,4,0,0,0,9,0,0,6,0,0,17%,17%,86%,Merah
+43001,Sekolah Tinggi Hukum Bandung,6,6,6,10,10,10,0,3,1,1,4,0,0,0,8,0,0,6,0,0,49%,49%,94%,Merah
+43002,Sekolah Tinggi Hukum Galunggung,6,1,1,10,0,0,2,3,0,0,4,0,0,0,10,0,0,6,0,0,3%,3%,100%,Merah
+43029,Sekolah Tinggi Hukum Garut,6,6,6,3,3,3,0,3,3,1,0,0,0,0,0,0,0,0,0,0,29%,34%,34%,Merah
+43042,Sekolah Tinggi Ilmu Administrasi Bagasasi,0,0,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46%,0%,0%,Merah
+43215,Sekolah Tinggi Ilmu Administrasi Banten,6,0,0,10,0,0,3,3,0,0,4,0,0,0,10,0,0,6,0,0,0%,0%,100%,Merah
+43255,Sekolah Tinggi Ilmu Administrasi Cimahi,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43010,Sekolah Tinggi Ilmu Administrasi Maulana Yusuf Banten,6,6,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,26%,26%,Merah
+43033,Sekolah Tinggi Ilmu Administrasi Menara Siswa,6,6,6,10,10,6,0,3,3,0,4,0,0,0,1,1,0,6,6,0,34%,74%,74%,Merah
+43214,Sekolah Tinggi Ilmu Administrasi Sandikta,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,14%,17%,20%,Merah
+43014,Sekolah Tinggi Ilmu Administrasi YPPT Tasikmalaya,6,6,6,10,10,10,29,3,3,3,0,0,0,0,3,3,0,6,0,0,54%,63%,80%,Kuning
+43391,Sekolah Tinggi Ilmu Ekonomi Arlindo,6,6,4,10,10,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20%,46%,46%,Merah
+43236,Sekolah Tinggi Ilmu Ekonomi Budi Pertiwi,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,6%,17%,Merah
+43094,Sekolah Tinggi Ilmu Ekonomi Cirebon,6,6,6,8,6,6,5,3,2,0,3,0,0,0,1,1,0,6,4,4,46%,54%,69%,Merah
+43171,Sekolah Tinggi Ilmu Ekonomi Dewantara,6,0,0,7,7,0,0,3,0,0,1,1,1,0,1,0,0,1,1,0,0%,23%,51%,Merah
+43384,Sekolah Tinggi Ilmu Ekonomi Dharma Agung Indonesia,6,2,2,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,6%,37%,Merah
+43316,Sekolah Tinggi Ilmu Ekonomi Dwimulya,6,1,1,10,10,6,3,3,3,3,1,1,1,0,1,1,1,6,6,6,49%,60%,74%,Merah
+43127,Sekolah Tinggi Ilmu Ekonomi Fajar,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43273,Sekolah Tinggi Ilmu Ekonomi Gici,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+43310,Sekolah Tinggi Ilmu Ekonomi Hidayatullah Depok,6,3,3,10,4,4,1,3,0,0,2,0,0,0,3,0,0,6,0,0,20%,20%,80%,Merah
+43176,Sekolah Tinggi Ilmu Ekonomi Kalpataru,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,34%,Merah
+43170,Sekolah Tinggi Ilmu Ekonomi Latifah Mubarokiyah,6,6,6,10,7,7,3,3,3,3,4,4,4,1,10,10,10,6,6,6,91%,91%,100%,Hijau
+43379,Sekolah Tinggi Ilmu Ekonomi Manajemen Bisnis Indonesia,6,5,5,9,9,9,0,2,2,2,0,0,0,0,1,0,0,0,0,0,46%,46%,51%,Merah
+43195,Sekolah Tinggi Ilmu Ekonomi Paripurna,6,6,4,10,10,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,46%,46%,Merah
+43056,Sekolah Tinggi Ilmu Ekonomi Pariwisata YAPARI,6,0,0,8,8,0,0,3,0,0,1,0,0,0,9,1,0,6,0,0,0%,26%,91%,Merah
+43153,Sekolah Tinggi Ilmu Ekonomi Stan Im,0,0,1,0,0,0,7,0,0,0,0,0,0,2,0,0,4,0,0,4,26%,0%,0%,Merah
+43119,Sekolah Tinggi Ilmu Ekonomi Sutaatmadja,6,6,6,9,9,9,2,3,0,0,0,0,0,0,9,0,0,1,0,0,43%,43%,80%,Merah
+43172,Sekolah Tinggi Ilmu Ekonomi Wibawa Karta Raharja,6,6,3,6,6,5,0,3,3,2,4,4,0,0,1,1,0,6,6,1,31%,63%,63%,Merah
+43393,Sekolah Tinggi Ilmu Ekonomi Yayasan Pengembangan Bisnis Indonesia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+43093,Sekolah Tinggi Ilmu Ekonomi YP-Karya,6,6,2,10,9,0,0,3,0,0,4,0,0,0,1,0,0,6,0,0,6%,43%,74%,Merah
+43364,Sekolah Tinggi Ilmu Hukum dan Politik Pelopor Bangsa,6,6,6,7,7,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37%,37%,37%,Merah
+43106,Sekolah Tinggi Ilmu Hukum Gunung Jati,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17%,17%,17%,Merah
+43329,Sekolah Tinggi Ilmu Hukum Painan,6,4,4,10,0,0,0,1,0,0,0,0,0,0,10,0,0,0,0,0,11%,11%,77%,Merah
+43387,Sekolah Tinggi Ilmu Kesehatan Aksari,6,6,0,10,10,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0%,46%,54%,Merah
+43188,Sekolah Tinggi Ilmu Kesehatan Bina Putera Banjar,6,6,5,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43%,46%,46%,Merah
+43332,Sekolah Tinggi Ilmu Kesehatan Holistik,6,1,1,10,10,10,2,3,0,0,3,1,1,0,3,3,3,6,2,2,46%,46%,80%,Merah
+43366,Sekolah Tinggi Ilmu Kesehatan Khas Kempek,6,6,6,9,9,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,43%,43%,43%,Merah
+43388,Sekolah Tinggi Ilmu Kesehatan Yayasan Lembaga Pendidikan Prada,6,5,5,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43%,43%,46%,Merah
+43383,Sekolah Tinggi Ilmu Kesehatan YPSDMI,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43177,Sekolah Tinggi Ilmu Komputer Poltek Cirebon,6,0,0,6,6,6,0,3,3,3,3,3,3,0,10,1,0,6,0,0,26%,29%,89%,Merah
+43045,Sekolah Tinggi Ilmu Komunikasi Bandung,0,0,3,0,0,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,17%,0%,0%,Merah
+43258,Sekolah Tinggi Ilmu Komunikasi Wangsa Jaya,6,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0%,0%,26%,Merah
+43241,Sekolah Tinggi Ilmu Sosial Dan Ilmu Politik Bekasi,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43182,Sekolah Tinggi Ilmu Teknik Bina Putra,6,0,0,3,0,0,0,3,0,0,4,0,0,0,0,0,0,6,0,0,0%,0%,51%,Merah
+43346,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Al-Amin Indramayu,6,2,2,10,7,7,3,3,1,1,4,4,2,0,0,0,0,0,0,0,29%,29%,54%,Merah
+43034,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Pasundan,6,3,3,6,3,3,5,1,1,1,3,1,1,0,0,0,0,0,0,0,20%,20%,37%,Merah
+43186,Sekolah Tinggi Kesehatan Indonesia Wirautama,6,0,0,10,0,0,1,3,0,0,4,0,0,21,7,0,0,6,6,6,17%,17%,91%,Merah
+43392,Sekolah Tinggi Manajemen Informatika Komputer Tazkia,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43368,Sekolah Tinggi Pendidikan Holistik Berbasis Karakter,6,1,1,7,3,3,0,3,0,0,1,0,0,3,1,0,0,6,0,0,11%,11%,66%,Merah
+43187,Sekolah Tinggi Seni Musik Bandung,6,6,6,10,10,10,0,3,3,3,4,0,0,1,3,3,3,6,6,6,80%,80%,80%,Kuning
+43049,Sekolah Tinggi Teknologi Mineral Indonesia,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43331,Sekolah Tinggi Teknologi Terpadu Nurul Fikri,6,6,6,9,9,9,1,3,3,1,4,3,3,0,9,0,0,6,0,0,46%,51%,94%,Merah
+43107,Sekolah Tinggi Teknologi Texmaco,6,6,6,3,3,3,0,3,3,3,1,1,1,0,3,3,3,6,1,1,46%,46%,60%,Merah
+43318,STIEB Perdana Mandiri,6,6,6,8,8,8,3,3,1,1,3,0,0,2,3,0,0,6,1,1,46%,46%,74%,Merah
+43347,STIKES An Nasher Cirebon,6,6,3,10,3,3,3,3,0,0,0,0,0,1,1,0,0,3,0,0,17%,26%,66%,Merah
+43292,STIKES Faathir Husada,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,6%,17%,Merah
+43298,STIKES Karsa Husada Garut,6,6,0,4,4,4,0,3,3,3,2,2,1,1,4,4,0,6,1,1,23%,51%,66%,Merah
+43277,STIKES Muhammadiyah Ciamis,6,6,6,10,10,10,2,3,3,3,4,1,1,1,7,2,2,6,6,6,77%,77%,91%,Kuning
+43270,STIKES Wijaya Husada Bogor,6,6,6,10,10,10,3,3,0,0,3,0,0,0,3,3,3,6,0,0,54%,54%,80%,Kuning
+43239,STISIP Banten Raya,6,6,6,6,3,3,0,3,3,3,2,0,0,0,3,0,0,6,0,0,34%,34%,69%,Merah
+43183,STISIP Bina Putera Banjar,6,6,6,10,10,10,8,3,3,0,1,0,0,0,1,1,1,0,0,0,49%,57%,57%,Merah
+43327,STISIP Guna Nusantara,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,20%,Merah
+43367,STISIP Samudera Indonesia Selatan,6,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0%,0%,34%,Merah
+43148,STISIP Syamsul Ulum,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3%,3%,17%,Merah
+43110,STISIP Tasikmalaya,6,6,6,3,3,3,0,0,0,0,0,0,0,0,0,0,0,6,6,6,43%,43%,43%,Merah
+43111,STKIP Arrahmaniyah,6,6,4,6,6,6,0,3,0,0,0,0,0,0,1,0,0,0,0,0,29%,34%,46%,Merah
+43350,STKIP Babunnajah Pandeglang,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43334,STKIP Nahdlatul Ulama Indramayu,6,6,1,7,7,0,0,3,0,0,3,0,0,0,3,0,0,6,0,0,3%,37%,71%,Merah
+43335,STKIP Purwakarta,6,0,0,10,0,0,7,3,0,0,3,0,0,0,6,0,0,6,0,0,0%,0%,89%,Merah
+43339,STKIP Situs Banten di Serang,6,6,1,8,8,8,0,3,3,1,0,0,0,0,1,1,1,0,0,0,31%,51%,51%,Merah
+43321,STKIP Surya,6,0,0,10,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9%,9%,46%,Merah
+43344,STKIP Syekh Manshur,6,5,5,8,0,0,0,3,0,0,4,0,0,0,9,0,0,6,0,0,14%,14%,91%,Merah
+43311,STMIK Antar Bangsa,6,4,4,10,8,8,1,3,2,2,1,0,0,0,1,0,0,0,0,0,40%,40%,57%,Merah
+43121,STMIK Cilegon,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43118,STMIK DCI,6,6,6,10,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26%,46%,46%,Merah
+43268,STMIK Dharma Negara,6,6,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,46%,46%,Merah
+43198,STMIK Ganesha Bandung,6,4,0,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,40%,46%,Merah
+43073,STMIK IM,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+43086,STMIK Jabar,6,1,1,10,8,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,26%,26%,46%,Merah
+43071,STMIK Likmi,6,6,6,10,10,10,1,3,3,3,3,3,3,0,1,1,1,6,5,5,71%,71%,74%,Kuning
+43251,STMIK Masa Depan,6,0,0,10,0,0,3,3,0,0,0,0,0,11,0,0,0,0,0,0,0%,0%,54%,Merah
+43144,STMIK Pamitran,6,6,1,10,10,8,0,3,3,2,3,3,0,0,6,6,0,6,6,0,31%,89%,89%,Merah
+43242,STMIK PGRI Tangerang,6,6,6,10,10,10,0,3,3,3,4,4,0,0,1,1,1,6,5,5,71%,71%,74%,Kuning
+43109,STMIK Pranata Indonesia,6,6,6,3,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,26%,26%,26%,Merah
+43291,STMIK WIT Cirebon,6,6,6,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29%,29%,29%,Merah
+41010,Universitas 17 Agustus 1945 Cirebon,6,4,4,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,29%,29%,34%,Merah
+41092,Universitas Al-Khairiyah,6,6,6,6,6,6,0,0,0,0,0,0,0,0,1,1,0,0,0,0,34%,37%,37%,Merah
+41048,Universitas Bale Bandung,6,6,5,8,8,1,9,3,3,3,1,0,0,0,1,1,0,6,6,6,43%,69%,69%,Merah
+41128,Universitas Bandung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+41119,Universitas Bani Saleh,6,6,6,6,6,6,0,3,3,1,4,4,2,0,3,3,0,6,6,0,37%,69%,69%,Merah
+41109,Universitas Banten,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,46%,Merah
+41114,Universitas Bestari,6,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6%,17%,17%,Merah
+41132,Universitas Bhakti Asih Tangerang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+41065,Universitas Bina Bangsa,6,6,2,10,10,6,2,0,0,0,0,0,,0,0,0,0,0,0,0,23%,46%,46%,Merah
+41127,Universitas Horizon Indonesia,6,0,0,10,0,0,0,3,0,0,1,0,0,0,9,0,0,6,0,0,0%,0%,97%,Merah
+41112,Universitas Ichsan Satya,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+41059,Universitas Islam Al-Ihya Kuningan,6,0,0,9,4,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,11%,11%,49%,Merah
+41133,Universitas Islam Dr Khez Muttaqien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+41076,Universitas Kartamulia Purwakarta,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11%,11%,17%,Merah
+41096,Universitas Kebangsaan Republik Indonesia,6,6,6,10,10,10,9,3,3,3,3,3,2,0,1,1,1,6,6,6,74%,74%,74%,Kuning
+41117,Universitas La Tansa Mashiro,6,6,0,4,4,0,2,3,0,0,3,0,0,0,3,0,0,6,0,0,0%,29%,63%,Merah
+41118,Universitas Mangku Wiyata,6,6,6,10,2,2,7,3,0,0,3,0,0,0,3,0,0,6,0,0,23%,23%,80%,Merah
+41116,Universitas Matana,6,0,0,10,0,0,7,3,0,0,3,0,0,0,5,0,0,6,0,0,0%,0%,86%,Merah
+41032,Universitas Mathla ul Anwar,6,6,6,10,10,10,3,3,3,3,3,3,3,0,1,1,1,5,5,5,71%,71%,71%,Kuning
+41125,Universitas Mayasari Bakti,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,46%,Merah
+41101,Universitas Muhammadiyah A.R. Fachruddin,6,0,0,10,10,10,6,3,3,3,0,0,0,0,1,1,1,6,2,2,46%,46%,74%,Merah
+41080,Universitas Muhammadiyah Banten,6,2,2,5,5,5,2,3,0,0,0,0,0,0,0,0,0,6,0,0,20%,20%,57%,Merah
+41113,Universitas Muhammadiyah Bogor Raya,6,6,6,9,7,0,5,3,3,0,1,1,1,0,1,1,0,6,6,0,17%,66%,71%,Merah
+41020,Universitas Nusa Bangsa,6,5,5,8,6,6,0,3,3,3,4,1,1,0,3,3,3,6,0,0,49%,49%,74%,Merah
+41039,Universitas Pramita Indonesia,6,1,1,10,6,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,20%,20%,49%,Merah
+41079,Universitas Primagraha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+41124,Universitas Satu,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+41097,Universitas Sebelas April,6,5,5,3,3,3,1,3,0,0,0,0,0,0,9,0,0,1,0,0,23%,23%,63%,Merah
+41126,Universitas Sehati Indonesia,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,26%,Merah
+41121,Universitas Setia Budhi Rangkasbitung,6,6,6,10,8,8,7,3,2,2,2,0,0,0,3,1,0,6,6,6,63%,66%,80%,Kuning
+41042,Universitas Subang,6,0,0,10,4,4,22,3,0,0,4,0,0,0,4,4,4,6,6,6,40%,40%,83%,Merah
+41056,Universitas Surya,6,2,0,9,0,0,0,3,3,0,0,0,0,0,1,1,0,6,6,0,0%,34%,71%,Merah
+41030,Universitas Suryakancana,6,4,2,10,6,6,10,3,2,2,2,2,1,13,4,0,0,6,4,2,34%,46%,83%,Merah
+41085,Universitas Tangerang Raya,6,6,6,10,4,4,11,3,0,0,0,0,0,0,1,1,0,6,0,0,29%,31%,74%,Merah
+41130,Universitas Yarsi Pratama,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,17%,Merah
+43394,Sekolah Tinggi Teknologi Sinar Husni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+43395,Sekolah TInggi Ilmu Kesehatan Sismadi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+43396,Sekolah Tinggi Teknologi Indonesia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+48892,Politeknik Insan Tazzaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+48898,Universitas Sindang Kasih Majalengka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
+41135,Universitas Salakanagara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,0%,0%,Merah
