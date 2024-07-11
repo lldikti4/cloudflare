@@ -3,9 +3,8 @@ type = "javascript"
 account_id = "b23930131f25169fd1282bbd0cbe6586"
 workers_dev = true
 compatibility_date = "2024-07-11"
-route = "https://cluster-spmi-lldikti4.laresarianti23.workers.dev/"
+format = "service-worker"
 
 [build.upload]
 dir = "./"
 main = "worker.js"
-
