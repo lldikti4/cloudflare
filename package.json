@@ -1,18 +1,13 @@
 {
-  "name": "lldikti4.github.io",
+  "name": "cloudflare",
   "version": "1.0.0",
-  "description": "Implementasi Kluster SPMI",
-  "main": "script.js",
+  "description": "Cloudflare Workers, fungsi tanpa server dari Cloudflare, berjalan di jaringan edge dan ditulis dalam JavaScript. Saat pekerja dikerahkan, kode yang ditulis didistribusikan ke seluruh lokasi edge yang ditawarkan oleh Cloudflare, dengan latensi minimal. Runtime Cloudflare Workers menggunakan mesin V8 karena mereka memiliki perilaku yang mirip dengan JavaScript di Node.js atau browser. Pekerja bertugas dalam mengeksekusi JavaScript ringan untuk augmentasi aplikasi yang sudah ada atau dalam pembuatan aplikasi baru.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node_modules/.bin/webpack"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "webpack": "^5.50.0",
-    "webpack-cli": "^4.7.2",
-    "wranglerjs-compat-webpack-plugin": "^1.0.0"
-  }
+  "license": "ISC"
 }
